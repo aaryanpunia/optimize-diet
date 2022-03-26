@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;400&display=swap');
+
+.cardContainer {
+  background-color: white;
+  display: flex;
+  flex-direction: horizontal;
+  justify-content: start;
+  align-items: center;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+  padding: 10px;
+  border-radius: 9px;
+}
+
+.cardText {
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+.cardText input {
+  width: 12em;
+  padding: none;
+  font-size: 15px;
+  margin: 0;
+  outline: none;
+  border: none;
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+.cardText input::-webkit-input-placeholder {
+  color: gray;
+  opacity: 0.5;
+}
+.cardText input:-moz-placeholder {
+    /* FF 4-18 */
+  color: gray;
+  opacity: 0.5;
+}
+.cardText input::-moz-placeholder {
+    /* FF 19+ */
+  color: gray;
+  opacity: 0.5;
+}
+.cardText input:-ms-input-placeholder {
+    /* IE 10+ */
+  color: gray;
+  opacity: 0.5;
+}
+.cardText input::-ms-input-placeholder {
+    /* Microsoft Edge */
+  color: gray;
+  opacity: 0.5;
+}
+.cardText input::placeholder {
+    /* modern browser */
+  color: gray;
+  opacity: 0.5;
+}

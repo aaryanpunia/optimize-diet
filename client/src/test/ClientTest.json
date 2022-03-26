@@ -1,0 +1,454 @@
+{
+    "restaurants": [
+        {
+            "name": "Punjabi Cafe Express",
+            "price_avg": 10,
+            "kcal_avg": 500,
+            "menu": [
+                {
+                    "name": "Chicken Biryani (CB)",
+                    "price": "$9.99",
+                    "desc": "Basmati rice cooked with chunks of chicken, onions, pepper, herbs and spices",
+                    "nutrition": {
+                        "items": [
+                            {
+                                "sugar_g": 1.5,
+                                "fiber_g": 0.7,
+                                "serving_size_g": 100.0,
+                                "sodium_mg": 202,
+                                "name": "chicken biryani",
+                                "potassium_mg": 93,
+                                "fat_saturated_g": 0.8,
+                                "fat_total_g": 4.6,
+                                "calories": 140.2,
+                                "cholesterol_mg": 23,
+                                "protein_g": 9.5,
+                                "carbohydrates_total_g": 15.3
+                            }
+                        ]
+                    }
+                },
+                {
+                    "name": "White Rice",
+                    "price": "$3.99",
+                    "nutrition": {
+                        "items": [
+                            {
+                                "sugar_g": 0.1,
+                                "fiber_g": 0.4,
+                                "serving_size_g": 100.0,
+                                "sodium_mg": 0,
+                                "name": "white rice",
+                                "potassium_mg": 43,
+                                "fat_saturated_g": 0.1,
+                                "fat_total_g": 0.3,
+                                "calories": 132.0,
+                                "cholesterol_mg": 0,
+                                "protein_g": 2.7,
+                                "carbohydrates_total_g": 28.5
+                            }
+                        ]
+                    }
+                },
+                {
+                    "name": "Vegan Fudge Brownie",
+                    "price": "$5.96",
+                    "desc": "Double chocolate fudge brownie, made with premium and responsibly sourced ingredients.",
+                    "nutrition": {
+                        "items": [
+                            {
+                                "sugar_g": 0.0,
+                                "fiber_g": 0.0,
+                                "serving_size_g": 100.0,
+                                "sodium_mg": 339,
+                                "name": "fudge brownie",
+                                "potassium_mg": 131,
+                                "fat_saturated_g": 7.3,
+                                "fat_total_g": 29.7,
+                                "calories": 461.2,
+                                "cholesterol_mg": 74,
+                                "protein_g": 6.2,
+                                "carbohydrates_total_g": 50.2
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Pizza Hut",
+            "price_avg": 6,
+            "kcal_avg": 800,
+            "menu": [
+                {
+                    "name": "Chicken Biryani (CB)",
+                    "price": "$9.99",
+                    "desc": "Basmati rice cooked with chunks of chicken, onions, pepper, herbs and spices",
+                    "nutrition": {
+                        "items": [
+                            {
+                                "sugar_g": 1.5,
+                                "fiber_g": 0.7,
+                                "serving_size_g": 100.0,
+                                "sodium_mg": 202,
+                                "name": "chicken biryani",
+                                "potassium_mg": 93,
+                                "fat_saturated_g": 0.8,
+                                "fat_total_g": 4.6,
+                                "calories": 140.2,
+                                "cholesterol_mg": 23,
+                                "protein_g": 9.5,
+                                "carbohydrates_total_g": 15.3
+                            }
+                        ]
+                    }
+                },
+                {
+                    "name": "White Rice",
+                    "price": "$3.99",
+                    "nutrition": {
+                        "items": [
+                            {
+                                "sugar_g": 0.1,
+                                "fiber_g": 0.4,
+                                "serving_size_g": 100.0,
+                                "sodium_mg": 0,
+                                "name": "white rice",
+                                "potassium_mg": 43,
+                                "fat_saturated_g": 0.1,
+                                "fat_total_g": 0.3,
+                                "calories": 132.0,
+                                "cholesterol_mg": 0,
+                                "protein_g": 2.7,
+                                "carbohydrates_total_g": 28.5
+                            }
+                        ]
+                    }
+                },
+                {
+                    "name": "Vegan Fudge Brownie",
+                    "price": "$5.96",
+                    "desc": "Double chocolate fudge brownie, made with premium and responsibly sourced ingredients.",
+                    "nutrition": {
+                        "items": [
+                            {
+                                "sugar_g": 0.0,
+                                "fiber_g": 0.0,
+                                "serving_size_g": 100.0,
+                                "sodium_mg": 339,
+                                "name": "fudge brownie",
+                                "potassium_mg": 131,
+                                "fat_saturated_g": 7.3,
+                                "fat_total_g": 29.7,
+                                "calories": 461.2,
+                                "cholesterol_mg": 74,
+                                "protein_g": 6.2,
+                                "carbohydrates_total_g": 50.2
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Mc Donalds",
+            "price_avg": 30,
+            "kcal_avg": 1000,
+            "menu": [
+                {
+                    "name": "Chicken Biryani (CB)",
+                    "price": "$9.99",
+                    "desc": "Basmati rice cooked with chunks of chicken, onions, pepper, herbs and spices",
+                    "nutrition": {
+                        "items": [
+                            {
+                                "sugar_g": 1.5,
+                                "fiber_g": 0.7,
+                                "serving_size_g": 100.0,
+                                "sodium_mg": 202,
+                                "name": "chicken biryani",
+                                "potassium_mg": 93,
+                                "fat_saturated_g": 0.8,
+                                "fat_total_g": 4.6,
+                                "calories": 140.2,
+                                "cholesterol_mg": 23,
+                                "protein_g": 9.5,
+                                "carbohydrates_total_g": 15.3
+                            }
+                        ]
+                    }
+                },
+                {
+                    "name": "White Rice",
+                    "price": "$3.99",
+                    "nutrition": {
+                        "items": [
+                            {
+                                "sugar_g": 0.1,
+                                "fiber_g": 0.4,
+                                "serving_size_g": 100.0,
+                                "sodium_mg": 0,
+                                "name": "white rice",
+                                "potassium_mg": 43,
+                                "fat_saturated_g": 0.1,
+                                "fat_total_g": 0.3,
+                                "calories": 132.0,
+                                "cholesterol_mg": 0,
+                                "protein_g": 2.7,
+                                "carbohydrates_total_g": 28.5
+                            }
+                        ]
+                    }
+                },
+                {
+                    "name": "Vegan Fudge Brownie",
+                    "price": "$5.96",
+                    "desc": "Double chocolate fudge brownie, made with premium and responsibly sourced ingredients.",
+                    "nutrition": {
+                        "items": [
+                            {
+                                "sugar_g": 0.0,
+                                "fiber_g": 0.0,
+                                "serving_size_g": 100.0,
+                                "sodium_mg": 339,
+                                "name": "fudge brownie",
+                                "potassium_mg": 131,
+                                "fat_saturated_g": 7.3,
+                                "fat_total_g": 29.7,
+                                "calories": 461.2,
+                                "cholesterol_mg": 74,
+                                "protein_g": 6.2,
+                                "carbohydrates_total_g": 50.2
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Punjabi Cafe Express",
+            "price_avg": 10,
+            "kcal_avg": 500,
+            "menu": [
+                {
+                    "name": "Chicken Biryani (CB)",
+                    "price": "$9.99",
+                    "desc": "Basmati rice cooked with chunks of chicken, onions, pepper, herbs and spices",
+                    "nutrition": {
+                        "items": [
+                            {
+                                "sugar_g": 1.5,
+                                "fiber_g": 0.7,
+                                "serving_size_g": 100.0,
+                                "sodium_mg": 202,
+                                "name": "chicken biryani",
+                                "potassium_mg": 93,
+                                "fat_saturated_g": 0.8,
+                                "fat_total_g": 4.6,
+                                "calories": 140.2,
+                                "cholesterol_mg": 23,
+                                "protein_g": 9.5,
+                                "carbohydrates_total_g": 15.3
+                            }
+                        ]
+                    }
+                },
+                {
+                    "name": "White Rice",
+                    "price": "$3.99",
+                    "nutrition": {
+                        "items": [
+                            {
+                                "sugar_g": 0.1,
+                                "fiber_g": 0.4,
+                                "serving_size_g": 100.0,
+                                "sodium_mg": 0,
+                                "name": "white rice",
+                                "potassium_mg": 43,
+                                "fat_saturated_g": 0.1,
+                                "fat_total_g": 0.3,
+                                "calories": 132.0,
+                                "cholesterol_mg": 0,
+                                "protein_g": 2.7,
+                                "carbohydrates_total_g": 28.5
+                            }
+                        ]
+                    }
+                },
+                {
+                    "name": "Vegan Fudge Brownie",
+                    "price": "$5.96",
+                    "desc": "Double chocolate fudge brownie, made with premium and responsibly sourced ingredients.",
+                    "nutrition": {
+                        "items": [
+                            {
+                                "sugar_g": 0.0,
+                                "fiber_g": 0.0,
+                                "serving_size_g": 100.0,
+                                "sodium_mg": 339,
+                                "name": "fudge brownie",
+                                "potassium_mg": 131,
+                                "fat_saturated_g": 7.3,
+                                "fat_total_g": 29.7,
+                                "calories": 461.2,
+                                "cholesterol_mg": 74,
+                                "protein_g": 6.2,
+                                "carbohydrates_total_g": 50.2
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Pizza Hut",
+            "price_avg": 6,
+            "kcal_avg": 800,
+            "menu": [
+                {
+                    "name": "Chicken Biryani (CB)",
+                    "price": "$9.99",
+                    "desc": "Basmati rice cooked with chunks of chicken, onions, pepper, herbs and spices",
+                    "nutrition": {
+                        "items": [
+                            {
+                                "sugar_g": 1.5,
+                                "fiber_g": 0.7,
+                                "serving_size_g": 100.0,
+                                "sodium_mg": 202,
+                                "name": "chicken biryani",
+                                "potassium_mg": 93,
+                                "fat_saturated_g": 0.8,
+                                "fat_total_g": 4.6,
+                                "calories": 140.2,
+                                "cholesterol_mg": 23,
+                                "protein_g": 9.5,
+                                "carbohydrates_total_g": 15.3
+                            }
+                        ]
+                    }
+                },
+                {
+                    "name": "White Rice",
+                    "price": "$3.99",
+                    "nutrition": {
+                        "items": [
+                            {
+                                "sugar_g": 0.1,
+                                "fiber_g": 0.4,
+                                "serving_size_g": 100.0,
+                                "sodium_mg": 0,
+                                "name": "white rice",
+                                "potassium_mg": 43,
+                                "fat_saturated_g": 0.1,
+                                "fat_total_g": 0.3,
+                                "calories": 132.0,
+                                "cholesterol_mg": 0,
+                                "protein_g": 2.7,
+                                "carbohydrates_total_g": 28.5
+                            }
+                        ]
+                    }
+                },
+                {
+                    "name": "Vegan Fudge Brownie",
+                    "price": "$5.96",
+                    "desc": "Double chocolate fudge brownie, made with premium and responsibly sourced ingredients.",
+                    "nutrition": {
+                        "items": [
+                            {
+                                "sugar_g": 0.0,
+                                "fiber_g": 0.0,
+                                "serving_size_g": 100.0,
+                                "sodium_mg": 339,
+                                "name": "fudge brownie",
+                                "potassium_mg": 131,
+                                "fat_saturated_g": 7.3,
+                                "fat_total_g": 29.7,
+                                "calories": 461.2,
+                                "cholesterol_mg": 74,
+                                "protein_g": 6.2,
+                                "carbohydrates_total_g": 50.2
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Mc Donalds",
+            "price_avg": 30,
+            "kcal_avg": 1000,
+            "menu": [
+                {
+                    "name": "Chicken Biryani (CB)",
+                    "price": "$9.99",
+                    "desc": "Basmati rice cooked with chunks of chicken, onions, pepper, herbs and spices",
+                    "nutrition": {
+                        "items": [
+                            {
+                                "sugar_g": 1.5,
+                                "fiber_g": 0.7,
+                                "serving_size_g": 100.0,
+                                "sodium_mg": 202,
+                                "name": "chicken biryani",
+                                "potassium_mg": 93,
+                                "fat_saturated_g": 0.8,
+                                "fat_total_g": 4.6,
+                                "calories": 140.2,
+                                "cholesterol_mg": 23,
+                                "protein_g": 9.5,
+                                "carbohydrates_total_g": 15.3
+                            }
+                        ]
+                    }
+                },
+                {
+                    "name": "White Rice",
+                    "price": "$3.99",
+                    "nutrition": {
+                        "items": [
+                            {
+                                "sugar_g": 0.1,
+                                "fiber_g": 0.4,
+                                "serving_size_g": 100.0,
+                                "sodium_mg": 0,
+                                "name": "white rice",
+                                "potassium_mg": 43,
+                                "fat_saturated_g": 0.1,
+                                "fat_total_g": 0.3,
+                                "calories": 132.0,
+                                "cholesterol_mg": 0,
+                                "protein_g": 2.7,
+                                "carbohydrates_total_g": 28.5
+                            }
+                        ]
+                    }
+                },
+                {
+                    "name": "Vegan Fudge Brownie",
+                    "price": "$5.96",
+                    "desc": "Double chocolate fudge brownie, made with premium and responsibly sourced ingredients.",
+                    "nutrition": {
+                        "items": [
+                            {
+                                "sugar_g": 0.0,
+                                "fiber_g": 0.0,
+                                "serving_size_g": 100.0,
+                                "sodium_mg": 339,
+                                "name": "fudge brownie",
+                                "potassium_mg": 131,
+                                "fat_saturated_g": 7.3,
+                                "fat_total_g": 29.7,
+                                "calories": 461.2,
+                                "cholesterol_mg": 74,
+                                "protein_g": 6.2,
+                                "carbohydrates_total_g": 50.2
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

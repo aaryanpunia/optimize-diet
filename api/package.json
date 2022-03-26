@@ -4,7 +4,7 @@
   "description": "A REST API that takes restaurant menu data and produces data according to caloric needs",
   "main": "server.js",
   "scripts": {
-    "run": "nodemon server.js",
+    "start": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Aaryan Punia",
