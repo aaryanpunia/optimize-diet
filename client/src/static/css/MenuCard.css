@@ -1,0 +1,57 @@
+.gen-menu-item-enter .item-nutrition {
+    display: block;
+}
+
+.gen-menu-item-enter {
+    height: 4em;
+}
+
+.gen-menu-item-enter-active .item-nutrition {
+    opacity: 1;
+    transition: all 0.5s;
+}
+.gen-menu-item-enter-active {
+    height: 6em;
+    transition: all 1.5s;
+}
+
+.gen-menu-item-enter-done .item-nutrition {
+    display: block;
+    opacity: 1;
+}
+
+.gen-menu-item-enter-done {
+    height: 8em;
+    transition: all 1.5s;
+}
+
+.gen-menu-item-exit .item-nutrition {
+    display: block;
+    opacity: 1;
+}
+
+.gen-menu-item-exit-active .item-nutrition {
+    opacity: 0;
+    transition: all 0.5s;
+}
+
+.gen-menu-item-exit-active {
+    height: 4em;
+    transition: all 1.5s;
+}
+
+.gen-menu-item-exit-done .item-nutrition {
+    display: none;
+    opacity: 0;
+}
+
+.gen-menu-item-exit-done {
+    height: 3em;
+    transition: all 1.5s;
+}
+
+.nutrition-container {
+    display: flex;
+    flex-direction: column;
+    gap: 0.1em;
+}

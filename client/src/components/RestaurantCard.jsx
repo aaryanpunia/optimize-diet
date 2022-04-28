@@ -1,6 +1,6 @@
 import React from 'react';
 import "../static/css/RestaurantCard.css";
-
+import ImageCloud from './ImageCloud';
 
 function RestaurantCard(props) {
     var price_emj = <h1>💰</h1>
@@ -26,6 +26,7 @@ function RestaurantCard(props) {
             <span className="restName">{name}</span>
             <span className="restKcal">{avg_kcal + " kcal  "}{kcal_emj}</span>
             <span className="restPrice">{"$" + avg_price + "  "}{price_emj}</span>
+            <ImageCloud dataId={props.imageId} height={100} width={100} />
         </div>
     );
 }

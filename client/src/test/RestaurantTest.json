@@ -1,0 +1,4352 @@
+{
+    "_id": "623f878dfe28f4fa74c4a2a9",
+    "name": "Full House",
+    "menu": [
+        {
+            "name": "Salt & Pepper Pork Ribs",
+            "price": 5.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 38395,
+                        "name": "salt",
+                        "potassium_mg": 0,
+                        "fat_saturated_g": 0,
+                        "fat_total_g": 0,
+                        "calories": 0,
+                        "cholesterol_mg": 0,
+                        "protein_g": 0,
+                        "carbohydrates_total_g": 0
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Baked Half & Half (Pork Chop with Rice & Meat Sauce Spaghetti)",
+            "price": 9.99,
+            "nutrition": {
+                "items": []
+            }
+        },
+        {
+            "name": "Wonton Soup",
+            "price": 6.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0.3,
+                        "fiber_g": 0.2,
+                        "serving_size_g": 100,
+                        "sodium_mg": 409,
+                        "name": "wonton soup",
+                        "potassium_mg": 17,
+                        "fat_saturated_g": 0.1,
+                        "fat_total_g": 0.3,
+                        "calories": 32.7,
+                        "cholesterol_mg": 4,
+                        "protein_g": 2.1,
+                        "carbohydrates_total_g": 5.3
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Fried Pot Stickers",
+            "price": 5.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 1,
+                        "fiber_g": 1.3,
+                        "serving_size_g": 100,
+                        "sodium_mg": 369,
+                        "name": "pot stickers",
+                        "potassium_mg": 88,
+                        "fat_saturated_g": 2.3,
+                        "fat_total_g": 10.1,
+                        "calories": 206.9,
+                        "cholesterol_mg": 24,
+                        "protein_g": 9.4,
+                        "carbohydrates_total_g": 20.1
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Pork & Preserved Egg Porridge",
+            "price": 6.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 57,
+                        "name": "pork",
+                        "potassium_mg": 219,
+                        "fat_saturated_g": 4.9,
+                        "fat_total_g": 14,
+                        "calories": 236.2,
+                        "cholesterol_mg": 88,
+                        "protein_g": 26.2,
+                        "carbohydrates_total_g": 0
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Fried Chicken wings",
+            "price": 5.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0.1,
+                        "serving_size_g": 100,
+                        "sodium_mg": 85,
+                        "name": "fried chicken",
+                        "potassium_mg": 187,
+                        "fat_saturated_g": 4.1,
+                        "fat_total_g": 14.6,
+                        "calories": 261.5,
+                        "cholesterol_mg": 90,
+                        "protein_g": 28.7,
+                        "carbohydrates_total_g": 3.1
+                    },
+                    {
+                        "sugar_g": 0.2,
+                        "fiber_g": 0.4,
+                        "serving_size_g": 100,
+                        "sodium_mg": 394,
+                        "name": "wings",
+                        "potassium_mg": 106,
+                        "fat_saturated_g": 8.6,
+                        "fat_total_g": 24.4,
+                        "calories": 330.8,
+                        "cholesterol_mg": 80,
+                        "protein_g": 17,
+                        "carbohydrates_total_g": 10
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Fried Pork Ribs",
+            "price": 5.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0.7,
+                        "fiber_g": 0.8,
+                        "serving_size_g": 100,
+                        "sodium_mg": 158,
+                        "name": "fried pork",
+                        "potassium_mg": 155,
+                        "fat_saturated_g": 4,
+                        "fat_total_g": 16.3,
+                        "calories": 275.5,
+                        "cholesterol_mg": 41,
+                        "protein_g": 18.2,
+                        "carbohydrates_total_g": 13.2
+                    },
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 91,
+                        "name": "ribs",
+                        "potassium_mg": 159,
+                        "fat_saturated_g": 9.2,
+                        "fat_total_g": 30.9,
+                        "calories": 361.3,
+                        "cholesterol_mg": 103,
+                        "protein_g": 21.1,
+                        "carbohydrates_total_g": 0
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Fried Pot Stickers",
+            "price": 5.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 1,
+                        "fiber_g": 1.3,
+                        "serving_size_g": 100,
+                        "sodium_mg": 369,
+                        "name": "pot stickers",
+                        "potassium_mg": 88,
+                        "fat_saturated_g": 2.3,
+                        "fat_total_g": 10.1,
+                        "calories": 206.9,
+                        "cholesterol_mg": 24,
+                        "protein_g": 9.4,
+                        "carbohydrates_total_g": 20.1
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Fried Spring Rolls(4)",
+            "price": 5.99,
+            "nutrition": {
+                "items": []
+            }
+        },
+        {
+            "name": "Salt & Pepper Chicken wings",
+            "price": 5.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 38395,
+                        "name": "salt",
+                        "potassium_mg": 0,
+                        "fat_saturated_g": 0,
+                        "fat_total_g": 0,
+                        "calories": 0,
+                        "cholesterol_mg": 0,
+                        "protein_g": 0,
+                        "carbohydrates_total_g": 0
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Salt & Pepper Pork Ribs",
+            "price": 5.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 38395,
+                        "name": "salt",
+                        "potassium_mg": 0,
+                        "fat_saturated_g": 0,
+                        "fat_total_g": 0,
+                        "calories": 0,
+                        "cholesterol_mg": 0,
+                        "protein_g": 0,
+                        "carbohydrates_total_g": 0
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Soy Sauce Chicken wings",
+            "price": 5.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0.4,
+                        "fiber_g": 0.8,
+                        "serving_size_g": 100,
+                        "sodium_mg": 5415,
+                        "name": "soy sauce",
+                        "potassium_mg": 167,
+                        "fat_saturated_g": 0.1,
+                        "fat_total_g": 0.6,
+                        "calories": 53,
+                        "cholesterol_mg": 0,
+                        "protein_g": 8.1,
+                        "carbohydrates_total_g": 4.8
+                    },
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 96,
+                        "name": "chicken wings",
+                        "potassium_mg": 144,
+                        "fat_saturated_g": 4.9,
+                        "fat_total_g": 16.7,
+                        "calories": 261.2,
+                        "cholesterol_mg": 140,
+                        "protein_g": 24,
+                        "carbohydrates_total_g": 0
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Shark Fin Soup",
+            "price": 2.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0.3,
+                        "fiber_g": 0.2,
+                        "serving_size_g": 100,
+                        "sodium_mg": 343,
+                        "name": "soup",
+                        "potassium_mg": 16,
+                        "fat_saturated_g": 0.3,
+                        "fat_total_g": 1,
+                        "calories": 24.6,
+                        "cholesterol_mg": 4,
+                        "protein_g": 1.3,
+                        "carbohydrates_total_g": 2.9
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Seafood Pan Fried Noodle",
+            "price": 9.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0.1,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 407,
+                        "name": "seafood",
+                        "potassium_mg": 290,
+                        "fat_saturated_g": 0.7,
+                        "fat_total_g": 3.5,
+                        "calories": 139.7,
+                        "cholesterol_mg": 80,
+                        "protein_g": 22.2,
+                        "carbohydrates_total_g": 2.7
+                    },
+                    {
+                        "sugar_g": 0.6,
+                        "fiber_g": 1.8,
+                        "serving_size_g": 100,
+                        "sodium_mg": 0,
+                        "name": "noodle",
+                        "potassium_mg": 58,
+                        "fat_saturated_g": 0.2,
+                        "fat_total_g": 0.9,
+                        "calories": 162.4,
+                        "cholesterol_mg": 0,
+                        "protein_g": 5.8,
+                        "carbohydrates_total_g": 30.3
+                    }
+                ]
+            }
+        },
+        {
+            "name": "House Rice Noodle In Dry Style",
+            "price": 9.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 1,
+                        "serving_size_g": 100,
+                        "sodium_mg": 19,
+                        "name": "rice noodle",
+                        "potassium_mg": 20,
+                        "fat_saturated_g": 0,
+                        "fat_total_g": 0.2,
+                        "calories": 110.1,
+                        "cholesterol_mg": 0,
+                        "protein_g": 1.8,
+                        "carbohydrates_total_g": 23.7
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Scrambled Egg Shrimp Chow Fun",
+            "price": 9.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 1.4,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 147,
+                        "name": "scrambled egg",
+                        "potassium_mg": 167,
+                        "fat_saturated_g": 3.3,
+                        "fat_total_g": 11.1,
+                        "calories": 146.1,
+                        "cholesterol_mg": 273,
+                        "protein_g": 10,
+                        "carbohydrates_total_g": 1.6
+                    },
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 944,
+                        "name": "shrimp",
+                        "potassium_mg": 300,
+                        "fat_saturated_g": 0.6,
+                        "fat_total_g": 1.8,
+                        "calories": 119,
+                        "cholesterol_mg": 212,
+                        "protein_g": 22.6,
+                        "carbohydrates_total_g": 1.6
+                    },
+                    {
+                        "sugar_g": 0.5,
+                        "fiber_g": 0.9,
+                        "serving_size_g": 100,
+                        "sodium_mg": 377,
+                        "name": "chow fun",
+                        "potassium_mg": 52,
+                        "fat_saturated_g": 0.7,
+                        "fat_total_g": 4.9,
+                        "calories": 138.7,
+                        "cholesterol_mg": 10,
+                        "protein_g": 5.8,
+                        "carbohydrates_total_g": 16.7
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Seafood Chow Fun",
+            "price": 9.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0.1,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 407,
+                        "name": "seafood",
+                        "potassium_mg": 290,
+                        "fat_saturated_g": 0.7,
+                        "fat_total_g": 3.5,
+                        "calories": 139.7,
+                        "cholesterol_mg": 80,
+                        "protein_g": 22.2,
+                        "carbohydrates_total_g": 2.7
+                    },
+                    {
+                        "sugar_g": 0.5,
+                        "fiber_g": 0.9,
+                        "serving_size_g": 100,
+                        "sodium_mg": 377,
+                        "name": "chow fun",
+                        "potassium_mg": 52,
+                        "fat_saturated_g": 0.7,
+                        "fat_total_g": 4.9,
+                        "calories": 138.7,
+                        "cholesterol_mg": 10,
+                        "protein_g": 5.8,
+                        "carbohydrates_total_g": 16.7
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Tom Yam Gong with Shrimp Fried Rice Noodle",
+            "price": 9.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0.5,
+                        "fiber_g": 3.9,
+                        "serving_size_g": 100,
+                        "sodium_mg": 8,
+                        "name": "yam",
+                        "potassium_mg": 49,
+                        "fat_saturated_g": 0,
+                        "fat_total_g": 0.1,
+                        "calories": 114.6,
+                        "cholesterol_mg": 0,
+                        "protein_g": 1.5,
+                        "carbohydrates_total_g": 28
+                    },
+                    {
+                        "sugar_g": 0.7,
+                        "fiber_g": 0.5,
+                        "serving_size_g": 100,
+                        "sodium_mg": 659,
+                        "name": "shrimp fried rice",
+                        "potassium_mg": 100,
+                        "fat_saturated_g": 0.7,
+                        "fat_total_g": 5.3,
+                        "calories": 143.8,
+                        "cholesterol_mg": 60,
+                        "protein_g": 6.9,
+                        "carbohydrates_total_g": 16.2
+                    },
+                    {
+                        "sugar_g": 0.6,
+                        "fiber_g": 1.8,
+                        "serving_size_g": 100,
+                        "sodium_mg": 0,
+                        "name": "noodle",
+                        "potassium_mg": 58,
+                        "fat_saturated_g": 0.2,
+                        "fat_total_g": 0.9,
+                        "calories": 162.4,
+                        "cholesterol_mg": 0,
+                        "protein_g": 5.8,
+                        "carbohydrates_total_g": 30.3
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Fish Fillet with Tender Green Chow Fun",
+            "price": 8.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 113,
+                        "name": "fish fillet",
+                        "potassium_mg": 186,
+                        "fat_saturated_g": 0.2,
+                        "fat_total_g": 0.9,
+                        "calories": 112.1,
+                        "cholesterol_mg": 94,
+                        "protein_g": 23.9,
+                        "carbohydrates_total_g": 0
+                    },
+                    {
+                        "sugar_g": 0.2,
+                        "fiber_g": 0.9,
+                        "serving_size_g": 100,
+                        "sodium_mg": 787,
+                        "name": "tender",
+                        "potassium_mg": 294,
+                        "fat_saturated_g": 3,
+                        "fat_total_g": 16.6,
+                        "calories": 294.2,
+                        "cholesterol_mg": 46,
+                        "protein_g": 18.8,
+                        "carbohydrates_total_g": 19.5
+                    },
+                    {
+                        "sugar_g": 0.5,
+                        "fiber_g": 0.9,
+                        "serving_size_g": 100,
+                        "sodium_mg": 377,
+                        "name": "chow fun",
+                        "potassium_mg": 52,
+                        "fat_saturated_g": 0.7,
+                        "fat_total_g": 4.9,
+                        "calories": 138.7,
+                        "cholesterol_mg": 10,
+                        "protein_g": 5.8,
+                        "carbohydrates_total_g": 16.7
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Beef Stew with Tender Green Chow Fun",
+            "price": 8.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 1.8,
+                        "fiber_g": 1.3,
+                        "serving_size_g": 100,
+                        "sodium_mg": 66,
+                        "name": "beef stew",
+                        "potassium_mg": 100,
+                        "fat_saturated_g": 1.5,
+                        "fat_total_g": 3.2,
+                        "calories": 103.9,
+                        "cholesterol_mg": 34,
+                        "protein_g": 11.5,
+                        "carbohydrates_total_g": 8.2
+                    },
+                    {
+                        "sugar_g": 0.2,
+                        "fiber_g": 0.9,
+                        "serving_size_g": 100,
+                        "sodium_mg": 787,
+                        "name": "tender",
+                        "potassium_mg": 294,
+                        "fat_saturated_g": 3,
+                        "fat_total_g": 16.6,
+                        "calories": 294.2,
+                        "cholesterol_mg": 46,
+                        "protein_g": 18.8,
+                        "carbohydrates_total_g": 19.5
+                    },
+                    {
+                        "sugar_g": 0.5,
+                        "fiber_g": 0.9,
+                        "serving_size_g": 100,
+                        "sodium_mg": 377,
+                        "name": "chow fun",
+                        "potassium_mg": 52,
+                        "fat_saturated_g": 0.7,
+                        "fat_total_g": 4.9,
+                        "calories": 138.7,
+                        "cholesterol_mg": 10,
+                        "protein_g": 5.8,
+                        "carbohydrates_total_g": 16.7
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Beef Stew Chow Fun In Dry Style",
+            "price": 8.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 1.8,
+                        "fiber_g": 1.3,
+                        "serving_size_g": 100,
+                        "sodium_mg": 66,
+                        "name": "beef stew",
+                        "potassium_mg": 100,
+                        "fat_saturated_g": 1.5,
+                        "fat_total_g": 3.2,
+                        "calories": 103.9,
+                        "cholesterol_mg": 34,
+                        "protein_g": 11.5,
+                        "carbohydrates_total_g": 8.2
+                    },
+                    {
+                        "sugar_g": 0.5,
+                        "fiber_g": 0.9,
+                        "serving_size_g": 100,
+                        "sodium_mg": 377,
+                        "name": "chow fun",
+                        "potassium_mg": 52,
+                        "fat_saturated_g": 0.7,
+                        "fat_total_g": 4.9,
+                        "calories": 138.7,
+                        "cholesterol_mg": 10,
+                        "protein_g": 5.8,
+                        "carbohydrates_total_g": 16.7
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Beef Stew with Tender Green Pan Fried Noodle",
+            "price": 8.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 1.8,
+                        "fiber_g": 1.3,
+                        "serving_size_g": 100,
+                        "sodium_mg": 66,
+                        "name": "beef stew",
+                        "potassium_mg": 100,
+                        "fat_saturated_g": 1.5,
+                        "fat_total_g": 3.2,
+                        "calories": 103.9,
+                        "cholesterol_mg": 34,
+                        "protein_g": 11.5,
+                        "carbohydrates_total_g": 8.2
+                    },
+                    {
+                        "sugar_g": 0.2,
+                        "fiber_g": 0.9,
+                        "serving_size_g": 100,
+                        "sodium_mg": 787,
+                        "name": "tender",
+                        "potassium_mg": 294,
+                        "fat_saturated_g": 3,
+                        "fat_total_g": 16.6,
+                        "calories": 294.2,
+                        "cholesterol_mg": 46,
+                        "protein_g": 18.8,
+                        "carbohydrates_total_g": 19.5
+                    },
+                    {
+                        "sugar_g": 0.6,
+                        "fiber_g": 1.8,
+                        "serving_size_g": 100,
+                        "sodium_mg": 0,
+                        "name": "noodle",
+                        "potassium_mg": 58,
+                        "fat_saturated_g": 0.2,
+                        "fat_total_g": 0.9,
+                        "calories": 162.4,
+                        "cholesterol_mg": 0,
+                        "protein_g": 5.8,
+                        "carbohydrates_total_g": 30.3
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Beef Chow Fun In Dry Style",
+            "price": 7.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0.5,
+                        "fiber_g": 0.9,
+                        "serving_size_g": 100,
+                        "sodium_mg": 382,
+                        "name": "beef chow fun",
+                        "potassium_mg": 54,
+                        "fat_saturated_g": 0.7,
+                        "fat_total_g": 4.8,
+                        "calories": 140.3,
+                        "cholesterol_mg": 10,
+                        "protein_g": 5.7,
+                        "carbohydrates_total_g": 16.5
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Beef with Tender Green Chow Fun",
+            "price": 7.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 63,
+                        "name": "beef",
+                        "potassium_mg": 206,
+                        "fat_saturated_g": 7.8,
+                        "fat_total_g": 19.7,
+                        "calories": 291.9,
+                        "cholesterol_mg": 87,
+                        "protein_g": 26.6,
+                        "carbohydrates_total_g": 0
+                    },
+                    {
+                        "sugar_g": 0.2,
+                        "fiber_g": 0.9,
+                        "serving_size_g": 100,
+                        "sodium_mg": 787,
+                        "name": "tender",
+                        "potassium_mg": 294,
+                        "fat_saturated_g": 3,
+                        "fat_total_g": 16.6,
+                        "calories": 294.2,
+                        "cholesterol_mg": 46,
+                        "protein_g": 18.8,
+                        "carbohydrates_total_g": 19.5
+                    },
+                    {
+                        "sugar_g": 0.5,
+                        "fiber_g": 0.9,
+                        "serving_size_g": 100,
+                        "sodium_mg": 377,
+                        "name": "chow fun",
+                        "potassium_mg": 52,
+                        "fat_saturated_g": 0.7,
+                        "fat_total_g": 4.9,
+                        "calories": 138.7,
+                        "cholesterol_mg": 10,
+                        "protein_g": 5.8,
+                        "carbohydrates_total_g": 16.7
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Chicken Chow Fun In Dry Style",
+            "price": 7.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 72,
+                        "name": "chicken",
+                        "potassium_mg": 179,
+                        "fat_saturated_g": 3.7,
+                        "fat_total_g": 12.9,
+                        "calories": 222.6,
+                        "cholesterol_mg": 92,
+                        "protein_g": 23.7,
+                        "carbohydrates_total_g": 0
+                    },
+                    {
+                        "sugar_g": 0.5,
+                        "fiber_g": 0.9,
+                        "serving_size_g": 100,
+                        "sodium_mg": 377,
+                        "name": "chow fun",
+                        "potassium_mg": 52,
+                        "fat_saturated_g": 0.7,
+                        "fat_total_g": 4.9,
+                        "calories": 138.7,
+                        "cholesterol_mg": 10,
+                        "protein_g": 5.8,
+                        "carbohydrates_total_g": 16.7
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Chicken with Tender Green Chow Fun",
+            "price": 7.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 72,
+                        "name": "chicken",
+                        "potassium_mg": 179,
+                        "fat_saturated_g": 3.7,
+                        "fat_total_g": 12.9,
+                        "calories": 222.6,
+                        "cholesterol_mg": 92,
+                        "protein_g": 23.7,
+                        "carbohydrates_total_g": 0
+                    },
+                    {
+                        "sugar_g": 0.2,
+                        "fiber_g": 0.9,
+                        "serving_size_g": 100,
+                        "sodium_mg": 787,
+                        "name": "tender",
+                        "potassium_mg": 294,
+                        "fat_saturated_g": 3,
+                        "fat_total_g": 16.6,
+                        "calories": 294.2,
+                        "cholesterol_mg": 46,
+                        "protein_g": 18.8,
+                        "carbohydrates_total_g": 19.5
+                    },
+                    {
+                        "sugar_g": 0.5,
+                        "fiber_g": 0.9,
+                        "serving_size_g": 100,
+                        "sodium_mg": 377,
+                        "name": "chow fun",
+                        "potassium_mg": 52,
+                        "fat_saturated_g": 0.7,
+                        "fat_total_g": 4.9,
+                        "calories": 138.7,
+                        "cholesterol_mg": 10,
+                        "protein_g": 5.8,
+                        "carbohydrates_total_g": 16.7
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Singapore Style Rice Noodle",
+            "price": 7.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 1,
+                        "serving_size_g": 100,
+                        "sodium_mg": 19,
+                        "name": "rice noodle",
+                        "potassium_mg": 20,
+                        "fat_saturated_g": 0,
+                        "fat_total_g": 0.2,
+                        "calories": 110.1,
+                        "cholesterol_mg": 0,
+                        "protein_g": 1.8,
+                        "carbohydrates_total_g": 23.7
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Singapore Style Chow Fun",
+            "price": 7.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0.5,
+                        "fiber_g": 0.9,
+                        "serving_size_g": 100,
+                        "sodium_mg": 377,
+                        "name": "chow fun",
+                        "potassium_mg": 52,
+                        "fat_saturated_g": 0.7,
+                        "fat_total_g": 4.9,
+                        "calories": 138.7,
+                        "cholesterol_mg": 10,
+                        "protein_g": 5.8,
+                        "carbohydrates_total_g": 16.7
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Shanghai Chow Men",
+            "price": 7.99,
+            "nutrition": {
+                "items": []
+            }
+        },
+        {
+            "name": "Chicken Pan Fried Noodle",
+            "price": 7.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 72,
+                        "name": "chicken",
+                        "potassium_mg": 179,
+                        "fat_saturated_g": 3.7,
+                        "fat_total_g": 12.9,
+                        "calories": 222.6,
+                        "cholesterol_mg": 92,
+                        "protein_g": 23.7,
+                        "carbohydrates_total_g": 0
+                    },
+                    {
+                        "sugar_g": 0.6,
+                        "fiber_g": 1.8,
+                        "serving_size_g": 100,
+                        "sodium_mg": 0,
+                        "name": "noodle",
+                        "potassium_mg": 58,
+                        "fat_saturated_g": 0.2,
+                        "fat_total_g": 0.9,
+                        "calories": 162.4,
+                        "cholesterol_mg": 0,
+                        "protein_g": 5.8,
+                        "carbohydrates_total_g": 30.3
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Tomato Beef Pan Fried Noodle",
+            "price": 7.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 2.6,
+                        "fiber_g": 1.2,
+                        "serving_size_g": 100,
+                        "sodium_mg": 4,
+                        "name": "tomato",
+                        "potassium_mg": 23,
+                        "fat_saturated_g": 0,
+                        "fat_total_g": 0.2,
+                        "calories": 18.2,
+                        "cholesterol_mg": 0,
+                        "protein_g": 0.9,
+                        "carbohydrates_total_g": 3.9
+                    },
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 63,
+                        "name": "beef",
+                        "potassium_mg": 206,
+                        "fat_saturated_g": 7.8,
+                        "fat_total_g": 19.7,
+                        "calories": 291.9,
+                        "cholesterol_mg": 87,
+                        "protein_g": 26.6,
+                        "carbohydrates_total_g": 0
+                    },
+                    {
+                        "sugar_g": 0.6,
+                        "fiber_g": 1.8,
+                        "serving_size_g": 100,
+                        "sodium_mg": 0,
+                        "name": "noodle",
+                        "potassium_mg": 58,
+                        "fat_saturated_g": 0.2,
+                        "fat_total_g": 0.9,
+                        "calories": 162.4,
+                        "cholesterol_mg": 0,
+                        "protein_g": 5.8,
+                        "carbohydrates_total_g": 30.3
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Bean Sprout Soy Sauce Chow Men",
+            "price": 7.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 2.8,
+                        "fiber_g": 0.8,
+                        "serving_size_g": 100,
+                        "sodium_mg": 9,
+                        "name": "bean sprout",
+                        "potassium_mg": 28,
+                        "fat_saturated_g": 0,
+                        "fat_total_g": 0.1,
+                        "calories": 21.1,
+                        "cholesterol_mg": 0,
+                        "protein_g": 2,
+                        "carbohydrates_total_g": 4.2
+                    },
+                    {
+                        "sugar_g": 0.4,
+                        "fiber_g": 0.8,
+                        "serving_size_g": 100,
+                        "sodium_mg": 5415,
+                        "name": "soy sauce",
+                        "potassium_mg": 167,
+                        "fat_saturated_g": 0.1,
+                        "fat_total_g": 0.6,
+                        "calories": 53,
+                        "cholesterol_mg": 0,
+                        "protein_g": 8.1,
+                        "carbohydrates_total_g": 4.8
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Assorted Meat Chow Mein",
+            "price": 7.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 69,
+                        "name": "meat",
+                        "potassium_mg": 209,
+                        "fat_saturated_g": 4.4,
+                        "fat_total_g": 12.2,
+                        "calories": 221.2,
+                        "cholesterol_mg": 90,
+                        "protein_g": 27.7,
+                        "carbohydrates_total_g": 0
+                    },
+                    {
+                        "sugar_g": 1.1,
+                        "fiber_g": 0.9,
+                        "serving_size_g": 100,
+                        "sodium_mg": 308,
+                        "name": "chow mein",
+                        "potassium_mg": 98,
+                        "fat_saturated_g": 1.5,
+                        "fat_total_g": 8.2,
+                        "calories": 165.3,
+                        "cholesterol_mg": 31,
+                        "protein_g": 10.2,
+                        "carbohydrates_total_g": 12.1
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Fukein Fried Rice",
+            "price": 11.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0.6,
+                        "fiber_g": 1.1,
+                        "serving_size_g": 100,
+                        "sodium_mg": 393,
+                        "name": "fried rice",
+                        "potassium_mg": 50,
+                        "fat_saturated_g": 0.5,
+                        "fat_total_g": 2.9,
+                        "calories": 174.5,
+                        "cholesterol_mg": 17,
+                        "protein_g": 4,
+                        "carbohydrates_total_g": 32.4
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Prawns with Cream Sauce Over Fried Rice",
+            "price": 11.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 932,
+                        "name": "prawns",
+                        "potassium_mg": 302,
+                        "fat_saturated_g": 0.6,
+                        "fat_total_g": 1.8,
+                        "calories": 122,
+                        "cholesterol_mg": 208,
+                        "protein_g": 22.7,
+                        "carbohydrates_total_g": 1.6
+                    },
+                    {
+                        "sugar_g": 4.3,
+                        "fiber_g": 0.1,
+                        "serving_size_g": 100,
+                        "sodium_mg": 98,
+                        "name": "cream sauce",
+                        "potassium_mg": 78,
+                        "fat_saturated_g": 6.6,
+                        "fat_total_g": 10.7,
+                        "calories": 142.2,
+                        "cholesterol_mg": 30,
+                        "protein_g": 3.3,
+                        "carbohydrates_total_g": 8.3
+                    },
+                    {
+                        "sugar_g": 0.6,
+                        "fiber_g": 1.1,
+                        "serving_size_g": 100,
+                        "sodium_mg": 393,
+                        "name": "fried rice",
+                        "potassium_mg": 50,
+                        "fat_saturated_g": 0.5,
+                        "fat_total_g": 2.9,
+                        "calories": 174.5,
+                        "cholesterol_mg": 17,
+                        "protein_g": 4,
+                        "carbohydrates_total_g": 32.4
+                    }
+                ]
+            }
+        },
+        {
+            "name": "House Special Fried Rice",
+            "price": 11.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0.6,
+                        "fiber_g": 1.1,
+                        "serving_size_g": 100,
+                        "sodium_mg": 393,
+                        "name": "fried rice",
+                        "potassium_mg": 50,
+                        "fat_saturated_g": 0.5,
+                        "fat_total_g": 2.9,
+                        "calories": 174.5,
+                        "cholesterol_mg": 17,
+                        "protein_g": 4,
+                        "carbohydrates_total_g": 32.4
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Tom Yam Gong with Shrimp Fried Rice",
+            "price": 11.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0.5,
+                        "fiber_g": 3.9,
+                        "serving_size_g": 100,
+                        "sodium_mg": 8,
+                        "name": "yam",
+                        "potassium_mg": 49,
+                        "fat_saturated_g": 0,
+                        "fat_total_g": 0.1,
+                        "calories": 114.6,
+                        "cholesterol_mg": 0,
+                        "protein_g": 1.5,
+                        "carbohydrates_total_g": 28
+                    },
+                    {
+                        "sugar_g": 0.7,
+                        "fiber_g": 0.5,
+                        "serving_size_g": 100,
+                        "sodium_mg": 659,
+                        "name": "shrimp fried rice",
+                        "potassium_mg": 100,
+                        "fat_saturated_g": 0.7,
+                        "fat_total_g": 5.3,
+                        "calories": 143.8,
+                        "cholesterol_mg": 60,
+                        "protein_g": 6.9,
+                        "carbohydrates_total_g": 16.2
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Korean Pickled Vegetable with Chicken Fried Rice",
+            "price": 9.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 2.6,
+                        "fiber_g": 3,
+                        "serving_size_g": 100,
+                        "sodium_mg": 30,
+                        "name": "vegetable",
+                        "potassium_mg": 40,
+                        "fat_saturated_g": 0.1,
+                        "fat_total_g": 0.3,
+                        "calories": 32.7,
+                        "cholesterol_mg": 0,
+                        "protein_g": 1.7,
+                        "carbohydrates_total_g": 6.8
+                    },
+                    {
+                        "sugar_g": 0.5,
+                        "fiber_g": 0.5,
+                        "serving_size_g": 100,
+                        "sodium_mg": 201,
+                        "name": "chicken fried rice",
+                        "potassium_mg": 104,
+                        "fat_saturated_g": 1,
+                        "fat_total_g": 6.8,
+                        "calories": 159.9,
+                        "cholesterol_mg": 60,
+                        "protein_g": 10.3,
+                        "carbohydrates_total_g": 13.7
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Pineapple & Shrimp Fried Rice",
+            "price": 11.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 9.9,
+                        "fiber_g": 1.4,
+                        "serving_size_g": 100,
+                        "sodium_mg": 0,
+                        "name": "pineapple",
+                        "potassium_mg": 8,
+                        "fat_saturated_g": 0,
+                        "fat_total_g": 0.1,
+                        "calories": 50.8,
+                        "cholesterol_mg": 0,
+                        "protein_g": 0.5,
+                        "carbohydrates_total_g": 13
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Seafood Fried Rice",
+            "price": 11.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0.1,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 407,
+                        "name": "seafood",
+                        "potassium_mg": 290,
+                        "fat_saturated_g": 0.7,
+                        "fat_total_g": 3.5,
+                        "calories": 139.7,
+                        "cholesterol_mg": 80,
+                        "protein_g": 22.2,
+                        "carbohydrates_total_g": 2.7
+                    },
+                    {
+                        "sugar_g": 0.6,
+                        "fiber_g": 1.1,
+                        "serving_size_g": 100,
+                        "sodium_mg": 393,
+                        "name": "fried rice",
+                        "potassium_mg": 50,
+                        "fat_saturated_g": 0.5,
+                        "fat_total_g": 2.9,
+                        "calories": 174.5,
+                        "cholesterol_mg": 17,
+                        "protein_g": 4,
+                        "carbohydrates_total_g": 32.4
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Shrimp Fried Rice",
+            "price": 11.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0.7,
+                        "fiber_g": 0.5,
+                        "serving_size_g": 100,
+                        "sodium_mg": 659,
+                        "name": "shrimp fried rice",
+                        "potassium_mg": 100,
+                        "fat_saturated_g": 0.7,
+                        "fat_total_g": 5.3,
+                        "calories": 143.8,
+                        "cholesterol_mg": 60,
+                        "protein_g": 6.9,
+                        "carbohydrates_total_g": 16.2
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Dry Scallop with Albumen Fried Rice",
+            "price": 9.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 676,
+                        "name": "scallop",
+                        "potassium_mg": 426,
+                        "fat_saturated_g": 0.2,
+                        "fat_total_g": 0.9,
+                        "calories": 108.9,
+                        "cholesterol_mg": 40,
+                        "protein_g": 20.6,
+                        "carbohydrates_total_g": 5.3
+                    },
+                    {
+                        "sugar_g": 0.6,
+                        "fiber_g": 1.1,
+                        "serving_size_g": 100,
+                        "sodium_mg": 393,
+                        "name": "fried rice",
+                        "potassium_mg": 50,
+                        "fat_saturated_g": 0.5,
+                        "fat_total_g": 2.9,
+                        "calories": 174.5,
+                        "cholesterol_mg": 17,
+                        "protein_g": 4,
+                        "carbohydrates_total_g": 32.4
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Salty Fish & Chicken Fried Rice",
+            "price": 9.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 57,
+                        "name": "fish",
+                        "potassium_mg": 203,
+                        "fat_saturated_g": 0.9,
+                        "fat_total_g": 2.7,
+                        "calories": 129.2,
+                        "cholesterol_mg": 56,
+                        "protein_g": 26,
+                        "carbohydrates_total_g": 0
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Tom Yam Gong with Chicken Fried Rice",
+            "price": 8.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0.5,
+                        "fiber_g": 3.9,
+                        "serving_size_g": 100,
+                        "sodium_mg": 8,
+                        "name": "yam",
+                        "potassium_mg": 49,
+                        "fat_saturated_g": 0,
+                        "fat_total_g": 0.1,
+                        "calories": 114.6,
+                        "cholesterol_mg": 0,
+                        "protein_g": 1.5,
+                        "carbohydrates_total_g": 28
+                    },
+                    {
+                        "sugar_g": 0.5,
+                        "fiber_g": 0.5,
+                        "serving_size_g": 100,
+                        "sodium_mg": 201,
+                        "name": "chicken fried rice",
+                        "potassium_mg": 104,
+                        "fat_saturated_g": 1,
+                        "fat_total_g": 6.8,
+                        "calories": 159.9,
+                        "cholesterol_mg": 60,
+                        "protein_g": 10.3,
+                        "carbohydrates_total_g": 13.7
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Thai Style Fried Rice",
+            "price": 8.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0.6,
+                        "fiber_g": 1.1,
+                        "serving_size_g": 100,
+                        "sodium_mg": 393,
+                        "name": "fried rice",
+                        "potassium_mg": 50,
+                        "fat_saturated_g": 0.5,
+                        "fat_total_g": 2.9,
+                        "calories": 174.5,
+                        "cholesterol_mg": 17,
+                        "protein_g": 4,
+                        "carbohydrates_total_g": 32.4
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Spicy Onion with Chicken Fried Rice",
+            "price": 8.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 4.7,
+                        "fiber_g": 1.4,
+                        "serving_size_g": 100,
+                        "sodium_mg": 2,
+                        "name": "onion",
+                        "potassium_mg": 35,
+                        "fat_saturated_g": 0,
+                        "fat_total_g": 0.2,
+                        "calories": 44.7,
+                        "cholesterol_mg": 0,
+                        "protein_g": 1.4,
+                        "carbohydrates_total_g": 10.1
+                    },
+                    {
+                        "sugar_g": 0.5,
+                        "fiber_g": 0.5,
+                        "serving_size_g": 100,
+                        "sodium_mg": 201,
+                        "name": "chicken fried rice",
+                        "potassium_mg": 104,
+                        "fat_saturated_g": 1,
+                        "fat_total_g": 6.8,
+                        "calories": 159.9,
+                        "cholesterol_mg": 60,
+                        "protein_g": 10.3,
+                        "carbohydrates_total_g": 13.7
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Beef with Lettuce Fried Rice",
+            "price": 7.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 63,
+                        "name": "beef",
+                        "potassium_mg": 206,
+                        "fat_saturated_g": 7.8,
+                        "fat_total_g": 19.7,
+                        "calories": 291.9,
+                        "cholesterol_mg": 87,
+                        "protein_g": 26.6,
+                        "carbohydrates_total_g": 0
+                    },
+                    {
+                        "sugar_g": 1.2,
+                        "fiber_g": 2.1,
+                        "serving_size_g": 100,
+                        "sodium_mg": 7,
+                        "name": "lettuce",
+                        "potassium_mg": 30,
+                        "fat_saturated_g": 0,
+                        "fat_total_g": 0.3,
+                        "calories": 17,
+                        "cholesterol_mg": 0,
+                        "protein_g": 1.2,
+                        "carbohydrates_total_g": 3.3
+                    },
+                    {
+                        "sugar_g": 0.6,
+                        "fiber_g": 1.1,
+                        "serving_size_g": 100,
+                        "sodium_mg": 393,
+                        "name": "fried rice",
+                        "potassium_mg": 50,
+                        "fat_saturated_g": 0.5,
+                        "fat_total_g": 2.9,
+                        "calories": 174.5,
+                        "cholesterol_mg": 17,
+                        "protein_g": 4,
+                        "carbohydrates_total_g": 32.4
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Chicken with Lettuce Fried Rice",
+            "price": 7.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 72,
+                        "name": "chicken",
+                        "potassium_mg": 179,
+                        "fat_saturated_g": 3.7,
+                        "fat_total_g": 12.9,
+                        "calories": 222.6,
+                        "cholesterol_mg": 92,
+                        "protein_g": 23.7,
+                        "carbohydrates_total_g": 0
+                    },
+                    {
+                        "sugar_g": 1.2,
+                        "fiber_g": 2.1,
+                        "serving_size_g": 100,
+                        "sodium_mg": 7,
+                        "name": "lettuce",
+                        "potassium_mg": 30,
+                        "fat_saturated_g": 0,
+                        "fat_total_g": 0.3,
+                        "calories": 17,
+                        "cholesterol_mg": 0,
+                        "protein_g": 1.2,
+                        "carbohydrates_total_g": 3.3
+                    },
+                    {
+                        "sugar_g": 0.6,
+                        "fiber_g": 1.1,
+                        "serving_size_g": 100,
+                        "sodium_mg": 393,
+                        "name": "fried rice",
+                        "potassium_mg": 50,
+                        "fat_saturated_g": 0.5,
+                        "fat_total_g": 2.9,
+                        "calories": 174.5,
+                        "cholesterol_mg": 17,
+                        "protein_g": 4,
+                        "carbohydrates_total_g": 32.4
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Yeung Chow Fried Rice",
+            "price": 7.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0.6,
+                        "fiber_g": 1.1,
+                        "serving_size_g": 100,
+                        "sodium_mg": 393,
+                        "name": "fried rice",
+                        "potassium_mg": 50,
+                        "fat_saturated_g": 0.5,
+                        "fat_total_g": 2.9,
+                        "calories": 174.5,
+                        "cholesterol_mg": 17,
+                        "protein_g": 4,
+                        "carbohydrates_total_g": 32.4
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Western Style Fried Rice",
+            "price": 7.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0.6,
+                        "fiber_g": 1.1,
+                        "serving_size_g": 100,
+                        "sodium_mg": 393,
+                        "name": "fried rice",
+                        "potassium_mg": 50,
+                        "fat_saturated_g": 0.5,
+                        "fat_total_g": 2.9,
+                        "calories": 174.5,
+                        "cholesterol_mg": 17,
+                        "protein_g": 4,
+                        "carbohydrates_total_g": 32.4
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Pineapple & Ham Fried Rice",
+            "price": 7.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 9.9,
+                        "fiber_g": 1.4,
+                        "serving_size_g": 100,
+                        "sodium_mg": 0,
+                        "name": "pineapple",
+                        "potassium_mg": 8,
+                        "fat_saturated_g": 0,
+                        "fat_total_g": 0.1,
+                        "calories": 50.8,
+                        "cholesterol_mg": 0,
+                        "protein_g": 0.5,
+                        "carbohydrates_total_g": 13
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Veggie Fried Rice",
+            "price": 7.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 2.6,
+                        "fiber_g": 2.9,
+                        "serving_size_g": 100,
+                        "sodium_mg": 30,
+                        "name": "veggie",
+                        "potassium_mg": 40,
+                        "fat_saturated_g": 0.1,
+                        "fat_total_g": 0.3,
+                        "calories": 32.1,
+                        "cholesterol_mg": 0,
+                        "protein_g": 1.7,
+                        "carbohydrates_total_g": 6.9
+                    },
+                    {
+                        "sugar_g": 0.6,
+                        "fiber_g": 1.1,
+                        "serving_size_g": 100,
+                        "sodium_mg": 393,
+                        "name": "fried rice",
+                        "potassium_mg": 50,
+                        "fat_saturated_g": 0.5,
+                        "fat_total_g": 2.9,
+                        "calories": 174.5,
+                        "cholesterol_mg": 17,
+                        "protein_g": 4,
+                        "carbohydrates_total_g": 32.4
+                    }
+                ]
+            }
+        },
+        {
+            "name": "House Pan Fried Udon",
+            "price": 9.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 1.4,
+                        "fiber_g": 0.8,
+                        "serving_size_g": 100,
+                        "sodium_mg": 337,
+                        "name": "udon",
+                        "potassium_mg": 70,
+                        "fat_saturated_g": 0.2,
+                        "fat_total_g": 1,
+                        "calories": 71.9,
+                        "cholesterol_mg": 7,
+                        "protein_g": 5.7,
+                        "carbohydrates_total_g": 10.4
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Prawn Pan Fried Udon",
+            "price": 9.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 956,
+                        "name": "prawn",
+                        "potassium_mg": 310,
+                        "fat_saturated_g": 0.6,
+                        "fat_total_g": 1.8,
+                        "calories": 118,
+                        "cholesterol_mg": 207,
+                        "protein_g": 22.7,
+                        "carbohydrates_total_g": 1.6
+                    },
+                    {
+                        "sugar_g": 1.4,
+                        "fiber_g": 0.8,
+                        "serving_size_g": 100,
+                        "sodium_mg": 337,
+                        "name": "udon",
+                        "potassium_mg": 70,
+                        "fat_saturated_g": 0.2,
+                        "fat_total_g": 1,
+                        "calories": 71.9,
+                        "cholesterol_mg": 7,
+                        "protein_g": 5.7,
+                        "carbohydrates_total_g": 10.4
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Seafood Pan Fried Udon",
+            "price": 9.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0.1,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 407,
+                        "name": "seafood",
+                        "potassium_mg": 290,
+                        "fat_saturated_g": 0.7,
+                        "fat_total_g": 3.5,
+                        "calories": 139.7,
+                        "cholesterol_mg": 80,
+                        "protein_g": 22.2,
+                        "carbohydrates_total_g": 2.7
+                    },
+                    {
+                        "sugar_g": 1.4,
+                        "fiber_g": 0.8,
+                        "serving_size_g": 100,
+                        "sodium_mg": 337,
+                        "name": "udon",
+                        "potassium_mg": 70,
+                        "fat_saturated_g": 0.2,
+                        "fat_total_g": 1,
+                        "calories": 71.9,
+                        "cholesterol_mg": 7,
+                        "protein_g": 5.7,
+                        "carbohydrates_total_g": 10.4
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Beef Stew Pan Fried Udon",
+            "price": 8.49,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 1.8,
+                        "fiber_g": 1.3,
+                        "serving_size_g": 100,
+                        "sodium_mg": 66,
+                        "name": "beef stew",
+                        "potassium_mg": 100,
+                        "fat_saturated_g": 1.5,
+                        "fat_total_g": 3.2,
+                        "calories": 103.9,
+                        "cholesterol_mg": 34,
+                        "protein_g": 11.5,
+                        "carbohydrates_total_g": 8.2
+                    },
+                    {
+                        "sugar_g": 1.4,
+                        "fiber_g": 0.8,
+                        "serving_size_g": 100,
+                        "sodium_mg": 337,
+                        "name": "udon",
+                        "potassium_mg": 70,
+                        "fat_saturated_g": 0.2,
+                        "fat_total_g": 1,
+                        "calories": 71.9,
+                        "cholesterol_mg": 7,
+                        "protein_g": 5.7,
+                        "carbohydrates_total_g": 10.4
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Sliced Pork Pan Fried Udon",
+            "price": 8.49,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 57,
+                        "name": "pork",
+                        "potassium_mg": 219,
+                        "fat_saturated_g": 4.9,
+                        "fat_total_g": 14,
+                        "calories": 236.2,
+                        "cholesterol_mg": 88,
+                        "protein_g": 26.2,
+                        "carbohydrates_total_g": 0
+                    },
+                    {
+                        "sugar_g": 1.4,
+                        "fiber_g": 0.8,
+                        "serving_size_g": 100,
+                        "sodium_mg": 337,
+                        "name": "udon",
+                        "potassium_mg": 70,
+                        "fat_saturated_g": 0.2,
+                        "fat_total_g": 1,
+                        "calories": 71.9,
+                        "cholesterol_mg": 7,
+                        "protein_g": 5.7,
+                        "carbohydrates_total_g": 10.4
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Sliced Chicken Pan Fried Udon",
+            "price": 8.49,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 72,
+                        "name": "chicken",
+                        "potassium_mg": 179,
+                        "fat_saturated_g": 3.7,
+                        "fat_total_g": 12.9,
+                        "calories": 222.6,
+                        "cholesterol_mg": 92,
+                        "protein_g": 23.7,
+                        "carbohydrates_total_g": 0
+                    },
+                    {
+                        "sugar_g": 1.4,
+                        "fiber_g": 0.8,
+                        "serving_size_g": 100,
+                        "sodium_mg": 337,
+                        "name": "udon",
+                        "potassium_mg": 70,
+                        "fat_saturated_g": 0.2,
+                        "fat_total_g": 1,
+                        "calories": 71.9,
+                        "cholesterol_mg": 7,
+                        "protein_g": 5.7,
+                        "carbohydrates_total_g": 10.4
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Beef Pan Fried Udon",
+            "price": 8.49,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 63,
+                        "name": "beef",
+                        "potassium_mg": 206,
+                        "fat_saturated_g": 7.8,
+                        "fat_total_g": 19.7,
+                        "calories": 291.9,
+                        "cholesterol_mg": 87,
+                        "protein_g": 26.6,
+                        "carbohydrates_total_g": 0
+                    },
+                    {
+                        "sugar_g": 1.4,
+                        "fiber_g": 0.8,
+                        "serving_size_g": 100,
+                        "sodium_mg": 337,
+                        "name": "udon",
+                        "potassium_mg": 70,
+                        "fat_saturated_g": 0.2,
+                        "fat_total_g": 1,
+                        "calories": 71.9,
+                        "cholesterol_mg": 7,
+                        "protein_g": 5.7,
+                        "carbohydrates_total_g": 10.4
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Fish Cake Pan Fried Udon",
+            "price": 8.49,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0.4,
+                        "fiber_g": 0.7,
+                        "serving_size_g": 100,
+                        "sodium_mg": 196,
+                        "name": "fish cake",
+                        "potassium_mg": 196,
+                        "fat_saturated_g": 1.6,
+                        "fat_total_g": 8,
+                        "calories": 142.8,
+                        "cholesterol_mg": 55,
+                        "protein_g": 10.4,
+                        "carbohydrates_total_g": 7.6
+                    },
+                    {
+                        "sugar_g": 1.4,
+                        "fiber_g": 0.8,
+                        "serving_size_g": 100,
+                        "sodium_mg": 337,
+                        "name": "udon",
+                        "potassium_mg": 70,
+                        "fat_saturated_g": 0.2,
+                        "fat_total_g": 1,
+                        "calories": 71.9,
+                        "cholesterol_mg": 7,
+                        "protein_g": 5.7,
+                        "carbohydrates_total_g": 10.4
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Black Pepper Beef Pan Fried Udon",
+            "price": 8.49,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0.4,
+                        "fiber_g": 24.8,
+                        "serving_size_g": 100,
+                        "sodium_mg": 20,
+                        "name": "black pepper",
+                        "potassium_mg": 158,
+                        "fat_saturated_g": 1.3,
+                        "fat_total_g": 3,
+                        "calories": 245.3,
+                        "cholesterol_mg": 0,
+                        "protein_g": 10.5,
+                        "carbohydrates_total_g": 64.1
+                    },
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 63,
+                        "name": "beef",
+                        "potassium_mg": 206,
+                        "fat_saturated_g": 7.8,
+                        "fat_total_g": 19.7,
+                        "calories": 291.9,
+                        "cholesterol_mg": 87,
+                        "protein_g": 26.6,
+                        "carbohydrates_total_g": 0
+                    },
+                    {
+                        "sugar_g": 1.4,
+                        "fiber_g": 0.8,
+                        "serving_size_g": 100,
+                        "sodium_mg": 337,
+                        "name": "udon",
+                        "potassium_mg": 70,
+                        "fat_saturated_g": 0.2,
+                        "fat_total_g": 1,
+                        "calories": 71.9,
+                        "cholesterol_mg": 7,
+                        "protein_g": 5.7,
+                        "carbohydrates_total_g": 10.4
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Curry Seafood",
+            "price": 9.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0.9,
+                        "fiber_g": 0.6,
+                        "serving_size_g": 100,
+                        "sodium_mg": 31,
+                        "name": "curry",
+                        "potassium_mg": 96,
+                        "fat_saturated_g": 0.6,
+                        "fat_total_g": 4.7,
+                        "calories": 101,
+                        "cholesterol_mg": 31,
+                        "protein_g": 12.1,
+                        "carbohydrates_total_g": 3.2
+                    },
+                    {
+                        "sugar_g": 0.1,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 407,
+                        "name": "seafood",
+                        "potassium_mg": 290,
+                        "fat_saturated_g": 0.7,
+                        "fat_total_g": 3.5,
+                        "calories": 139.7,
+                        "cholesterol_mg": 80,
+                        "protein_g": 22.2,
+                        "carbohydrates_total_g": 2.7
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Curry Shrimp",
+            "price": 9.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0.9,
+                        "fiber_g": 0.6,
+                        "serving_size_g": 100,
+                        "sodium_mg": 31,
+                        "name": "curry",
+                        "potassium_mg": 96,
+                        "fat_saturated_g": 0.6,
+                        "fat_total_g": 4.7,
+                        "calories": 101,
+                        "cholesterol_mg": 31,
+                        "protein_g": 12.1,
+                        "carbohydrates_total_g": 3.2
+                    },
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 944,
+                        "name": "shrimp",
+                        "potassium_mg": 300,
+                        "fat_saturated_g": 0.6,
+                        "fat_total_g": 1.8,
+                        "calories": 119,
+                        "cholesterol_mg": 212,
+                        "protein_g": 22.6,
+                        "carbohydrates_total_g": 1.6
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Curry Fish Fillet",
+            "price": 8.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 1.3,
+                        "fiber_g": 0.5,
+                        "serving_size_g": 100,
+                        "sodium_mg": 358,
+                        "name": "curry fish",
+                        "potassium_mg": 249,
+                        "fat_saturated_g": 1,
+                        "fat_total_g": 7.1,
+                        "calories": 143.5,
+                        "cholesterol_mg": 52,
+                        "protein_g": 17,
+                        "carbohydrates_total_g": 2.9
+                    },
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 113,
+                        "name": "fish fillet",
+                        "potassium_mg": 186,
+                        "fat_saturated_g": 0.2,
+                        "fat_total_g": 0.9,
+                        "calories": 112.1,
+                        "cholesterol_mg": 94,
+                        "protein_g": 23.9,
+                        "carbohydrates_total_g": 0
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Curry Beef Stew",
+            "price": 8.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 2.3,
+                        "fiber_g": 1.3,
+                        "serving_size_g": 100,
+                        "sodium_mg": 102,
+                        "name": "curry beef",
+                        "potassium_mg": 106,
+                        "fat_saturated_g": 1.5,
+                        "fat_total_g": 5.3,
+                        "calories": 112.3,
+                        "cholesterol_mg": 34,
+                        "protein_g": 12,
+                        "carbohydrates_total_g": 4.7
+                    },
+                    {
+                        "sugar_g": 1.8,
+                        "fiber_g": 1.3,
+                        "serving_size_g": 100,
+                        "sodium_mg": 66,
+                        "name": "stew",
+                        "potassium_mg": 102,
+                        "fat_saturated_g": 1.5,
+                        "fat_total_g": 3.3,
+                        "calories": 106.6,
+                        "cholesterol_mg": 33,
+                        "protein_g": 11.5,
+                        "carbohydrates_total_g": 8.1
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Curry Chicken",
+            "price": 8.49,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0.9,
+                        "fiber_g": 0.6,
+                        "serving_size_g": 100,
+                        "sodium_mg": 31,
+                        "name": "curry chicken",
+                        "potassium_mg": 97,
+                        "fat_saturated_g": 0.6,
+                        "fat_total_g": 4.6,
+                        "calories": 101.4,
+                        "cholesterol_mg": 31,
+                        "protein_g": 12.1,
+                        "carbohydrates_total_g": 3.2
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Curry Beef",
+            "price": 8.49,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 2.3,
+                        "fiber_g": 1.3,
+                        "serving_size_g": 100,
+                        "sodium_mg": 102,
+                        "name": "curry beef",
+                        "potassium_mg": 106,
+                        "fat_saturated_g": 1.5,
+                        "fat_total_g": 5.3,
+                        "calories": 112.3,
+                        "cholesterol_mg": 34,
+                        "protein_g": 12,
+                        "carbohydrates_total_g": 4.7
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Curry Pork Chop",
+            "price": 8.49,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0.9,
+                        "fiber_g": 0.6,
+                        "serving_size_g": 100,
+                        "sodium_mg": 31,
+                        "name": "curry",
+                        "potassium_mg": 96,
+                        "fat_saturated_g": 0.6,
+                        "fat_total_g": 4.7,
+                        "calories": 101,
+                        "cholesterol_mg": 31,
+                        "protein_g": 12.1,
+                        "carbohydrates_total_g": 3.2
+                    },
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 53,
+                        "name": "pork chop",
+                        "potassium_mg": 221,
+                        "fat_saturated_g": 3.5,
+                        "fat_total_g": 11.2,
+                        "calories": 208.6,
+                        "cholesterol_mg": 82,
+                        "protein_g": 25.4,
+                        "carbohydrates_total_g": 0
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Curry Mix Vegetables",
+            "price": 8.49,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0.9,
+                        "fiber_g": 0.6,
+                        "serving_size_g": 100,
+                        "sodium_mg": 31,
+                        "name": "curry",
+                        "potassium_mg": 96,
+                        "fat_saturated_g": 0.6,
+                        "fat_total_g": 4.7,
+                        "calories": 101,
+                        "cholesterol_mg": 31,
+                        "protein_g": 12.1,
+                        "carbohydrates_total_g": 3.2
+                    },
+                    {
+                        "sugar_g": 3.1,
+                        "fiber_g": 4.4,
+                        "serving_size_g": 100,
+                        "sodium_mg": 35,
+                        "name": "vegetables",
+                        "potassium_mg": 51,
+                        "fat_saturated_g": 0,
+                        "fat_total_g": 0.2,
+                        "calories": 64.4,
+                        "cholesterol_mg": 0,
+                        "protein_g": 2.9,
+                        "carbohydrates_total_g": 13.3
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Scrambled Egg & Prawn Rice",
+            "price": 9.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 1.4,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 147,
+                        "name": "scrambled egg",
+                        "potassium_mg": 167,
+                        "fat_saturated_g": 3.3,
+                        "fat_total_g": 11.1,
+                        "calories": 146.1,
+                        "cholesterol_mg": 273,
+                        "protein_g": 10,
+                        "carbohydrates_total_g": 1.6
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Cream Corn with Fish Fillet Over Rice",
+            "price": 8.49,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 3.2,
+                        "fiber_g": 1.2,
+                        "serving_size_g": 100,
+                        "sodium_mg": 259,
+                        "name": "cream corn",
+                        "potassium_mg": 51,
+                        "fat_saturated_g": 0.1,
+                        "fat_total_g": 0.4,
+                        "calories": 73.9,
+                        "cholesterol_mg": 0,
+                        "protein_g": 1.7,
+                        "carbohydrates_total_g": 18.1
+                    },
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 113,
+                        "name": "fish fillet",
+                        "potassium_mg": 186,
+                        "fat_saturated_g": 0.2,
+                        "fat_total_g": 0.9,
+                        "calories": 112.1,
+                        "cholesterol_mg": 94,
+                        "protein_g": 23.9,
+                        "carbohydrates_total_g": 0
+                    },
+                    {
+                        "sugar_g": 0.1,
+                        "fiber_g": 0.4,
+                        "serving_size_g": 100,
+                        "sodium_mg": 1,
+                        "name": "rice",
+                        "potassium_mg": 42,
+                        "fat_saturated_g": 0.1,
+                        "fat_total_g": 0.3,
+                        "calories": 127.4,
+                        "cholesterol_mg": 0,
+                        "protein_g": 2.7,
+                        "carbohydrates_total_g": 28.4
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Chinese Broccoli with Fish Over Rice",
+            "price": 8.49,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0.8,
+                        "fiber_g": 2.5,
+                        "serving_size_g": 100,
+                        "sodium_mg": 6,
+                        "name": "chinese broccoli",
+                        "potassium_mg": 40,
+                        "fat_saturated_g": 0.1,
+                        "fat_total_g": 0.7,
+                        "calories": 22.3,
+                        "cholesterol_mg": 0,
+                        "protein_g": 1.1,
+                        "carbohydrates_total_g": 3.9
+                    },
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 57,
+                        "name": "fish",
+                        "potassium_mg": 203,
+                        "fat_saturated_g": 0.9,
+                        "fat_total_g": 2.7,
+                        "calories": 129.2,
+                        "cholesterol_mg": 56,
+                        "protein_g": 26,
+                        "carbohydrates_total_g": 0
+                    },
+                    {
+                        "sugar_g": 0.1,
+                        "fiber_g": 0.4,
+                        "serving_size_g": 100,
+                        "sodium_mg": 1,
+                        "name": "rice",
+                        "potassium_mg": 42,
+                        "fat_saturated_g": 0.1,
+                        "fat_total_g": 0.3,
+                        "calories": 127.4,
+                        "cholesterol_mg": 0,
+                        "protein_g": 2.7,
+                        "carbohydrates_total_g": 28.4
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Minced Beef & Egg (Raw) Over Rice",
+            "price": 8.49,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 92,
+                        "name": "minced beef",
+                        "potassium_mg": 225,
+                        "fat_saturated_g": 6.6,
+                        "fat_total_g": 17.4,
+                        "calories": 269.1,
+                        "cholesterol_mg": 89,
+                        "protein_g": 27.1,
+                        "carbohydrates_total_g": 0
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Chicken A La King Over Rice",
+            "price": 8.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 1.2,
+                        "fiber_g": 0.2,
+                        "serving_size_g": 100,
+                        "sodium_mg": 165,
+                        "name": "chicken a la king",
+                        "potassium_mg": 74,
+                        "fat_saturated_g": 3.5,
+                        "fat_total_g": 6.3,
+                        "calories": 136,
+                        "cholesterol_mg": 28,
+                        "protein_g": 7.1,
+                        "carbohydrates_total_g": 11.9
+                    },
+                    {
+                        "sugar_g": 0.1,
+                        "fiber_g": 0.4,
+                        "serving_size_g": 100,
+                        "sodium_mg": 1,
+                        "name": "rice",
+                        "potassium_mg": 42,
+                        "fat_saturated_g": 0.1,
+                        "fat_total_g": 0.3,
+                        "calories": 127.4,
+                        "cholesterol_mg": 0,
+                        "protein_g": 2.7,
+                        "carbohydrates_total_g": 28.4
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Beef Stew Over Rice",
+            "price": 8.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 1.8,
+                        "fiber_g": 1.3,
+                        "serving_size_g": 100,
+                        "sodium_mg": 66,
+                        "name": "beef stew",
+                        "potassium_mg": 100,
+                        "fat_saturated_g": 1.5,
+                        "fat_total_g": 3.2,
+                        "calories": 103.9,
+                        "cholesterol_mg": 34,
+                        "protein_g": 11.5,
+                        "carbohydrates_total_g": 8.2
+                    },
+                    {
+                        "sugar_g": 0.1,
+                        "fiber_g": 0.4,
+                        "serving_size_g": 100,
+                        "sodium_mg": 1,
+                        "name": "rice",
+                        "potassium_mg": 42,
+                        "fat_saturated_g": 0.1,
+                        "fat_total_g": 0.3,
+                        "calories": 127.4,
+                        "cholesterol_mg": 0,
+                        "protein_g": 2.7,
+                        "carbohydrates_total_g": 28.4
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Ma Po Tofu Over Rice",
+            "price": 8.49,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0.7,
+                        "fiber_g": 1,
+                        "serving_size_g": 100,
+                        "sodium_mg": 3,
+                        "name": "tofu",
+                        "potassium_mg": 111,
+                        "fat_saturated_g": 0.9,
+                        "fat_total_g": 5.2,
+                        "calories": 81.7,
+                        "cholesterol_mg": 0,
+                        "protein_g": 10,
+                        "carbohydrates_total_g": 1.2
+                    },
+                    {
+                        "sugar_g": 0.1,
+                        "fiber_g": 0.4,
+                        "serving_size_g": 100,
+                        "sodium_mg": 1,
+                        "name": "rice",
+                        "potassium_mg": 42,
+                        "fat_saturated_g": 0.1,
+                        "fat_total_g": 0.3,
+                        "calories": 127.4,
+                        "cholesterol_mg": 0,
+                        "protein_g": 2.7,
+                        "carbohydrates_total_g": 28.4
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Chicken with Vegetable Over Rice",
+            "price": 8.49,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 72,
+                        "name": "chicken",
+                        "potassium_mg": 179,
+                        "fat_saturated_g": 3.7,
+                        "fat_total_g": 12.9,
+                        "calories": 222.6,
+                        "cholesterol_mg": 92,
+                        "protein_g": 23.7,
+                        "carbohydrates_total_g": 0
+                    },
+                    {
+                        "sugar_g": 2.6,
+                        "fiber_g": 3,
+                        "serving_size_g": 100,
+                        "sodium_mg": 30,
+                        "name": "vegetable",
+                        "potassium_mg": 40,
+                        "fat_saturated_g": 0.1,
+                        "fat_total_g": 0.3,
+                        "calories": 32.7,
+                        "cholesterol_mg": 0,
+                        "protein_g": 1.7,
+                        "carbohydrates_total_g": 6.8
+                    },
+                    {
+                        "sugar_g": 0.1,
+                        "fiber_g": 0.4,
+                        "serving_size_g": 100,
+                        "sodium_mg": 1,
+                        "name": "rice",
+                        "potassium_mg": 42,
+                        "fat_saturated_g": 0.1,
+                        "fat_total_g": 0.3,
+                        "calories": 127.4,
+                        "cholesterol_mg": 0,
+                        "protein_g": 2.7,
+                        "carbohydrates_total_g": 28.4
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Pork with Vegetable Over Rice",
+            "price": 8.49,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 57,
+                        "name": "pork",
+                        "potassium_mg": 219,
+                        "fat_saturated_g": 4.9,
+                        "fat_total_g": 14,
+                        "calories": 236.2,
+                        "cholesterol_mg": 88,
+                        "protein_g": 26.2,
+                        "carbohydrates_total_g": 0
+                    },
+                    {
+                        "sugar_g": 2.6,
+                        "fiber_g": 3,
+                        "serving_size_g": 100,
+                        "sodium_mg": 30,
+                        "name": "vegetable",
+                        "potassium_mg": 40,
+                        "fat_saturated_g": 0.1,
+                        "fat_total_g": 0.3,
+                        "calories": 32.7,
+                        "cholesterol_mg": 0,
+                        "protein_g": 1.7,
+                        "carbohydrates_total_g": 6.8
+                    },
+                    {
+                        "sugar_g": 0.1,
+                        "fiber_g": 0.4,
+                        "serving_size_g": 100,
+                        "sodium_mg": 1,
+                        "name": "rice",
+                        "potassium_mg": 42,
+                        "fat_saturated_g": 0.1,
+                        "fat_total_g": 0.3,
+                        "calories": 127.4,
+                        "cholesterol_mg": 0,
+                        "protein_g": 2.7,
+                        "carbohydrates_total_g": 28.4
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Broccoli Beef Over Rice",
+            "price": 8.49,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 2.4,
+                        "fiber_g": 1.5,
+                        "serving_size_g": 100,
+                        "sodium_mg": 404,
+                        "name": "broccoli beef",
+                        "potassium_mg": 76,
+                        "fat_saturated_g": 1,
+                        "fat_total_g": 5.4,
+                        "calories": 105.3,
+                        "cholesterol_mg": 14,
+                        "protein_g": 7,
+                        "carbohydrates_total_g": 7.4
+                    },
+                    {
+                        "sugar_g": 0.1,
+                        "fiber_g": 0.4,
+                        "serving_size_g": 100,
+                        "sodium_mg": 1,
+                        "name": "rice",
+                        "potassium_mg": 42,
+                        "fat_saturated_g": 0.1,
+                        "fat_total_g": 0.3,
+                        "calories": 127.4,
+                        "cholesterol_mg": 0,
+                        "protein_g": 2.7,
+                        "carbohydrates_total_g": 28.4
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Satay Beef Over Rice",
+            "price": 8.49,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 7,
+                        "fiber_g": 1.2,
+                        "serving_size_g": 100,
+                        "sodium_mg": 331,
+                        "name": "satay",
+                        "potassium_mg": 139,
+                        "fat_saturated_g": 7.9,
+                        "fat_total_g": 14.7,
+                        "calories": 208.9,
+                        "cholesterol_mg": 26,
+                        "protein_g": 10.9,
+                        "carbohydrates_total_g": 10.9
+                    },
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 63,
+                        "name": "beef",
+                        "potassium_mg": 206,
+                        "fat_saturated_g": 7.8,
+                        "fat_total_g": 19.7,
+                        "calories": 291.9,
+                        "cholesterol_mg": 87,
+                        "protein_g": 26.6,
+                        "carbohydrates_total_g": 0
+                    },
+                    {
+                        "sugar_g": 0.1,
+                        "fiber_g": 0.4,
+                        "serving_size_g": 100,
+                        "sodium_mg": 1,
+                        "name": "rice",
+                        "potassium_mg": 42,
+                        "fat_saturated_g": 0.1,
+                        "fat_total_g": 0.3,
+                        "calories": 127.4,
+                        "cholesterol_mg": 0,
+                        "protein_g": 2.7,
+                        "carbohydrates_total_g": 28.4
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Mongolia Beef Over Rice",
+            "price": 8.49,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 63,
+                        "name": "beef",
+                        "potassium_mg": 206,
+                        "fat_saturated_g": 7.8,
+                        "fat_total_g": 19.7,
+                        "calories": 291.9,
+                        "cholesterol_mg": 87,
+                        "protein_g": 26.6,
+                        "carbohydrates_total_g": 0
+                    },
+                    {
+                        "sugar_g": 0.1,
+                        "fiber_g": 0.4,
+                        "serving_size_g": 100,
+                        "sodium_mg": 1,
+                        "name": "rice",
+                        "potassium_mg": 42,
+                        "fat_saturated_g": 0.1,
+                        "fat_total_g": 0.3,
+                        "calories": 127.4,
+                        "cholesterol_mg": 0,
+                        "protein_g": 2.7,
+                        "carbohydrates_total_g": 28.4
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Onion Pork Chop Over Rice",
+            "price": 8.49,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 4.7,
+                        "fiber_g": 1.4,
+                        "serving_size_g": 100,
+                        "sodium_mg": 2,
+                        "name": "onion",
+                        "potassium_mg": 35,
+                        "fat_saturated_g": 0,
+                        "fat_total_g": 0.2,
+                        "calories": 44.7,
+                        "cholesterol_mg": 0,
+                        "protein_g": 1.4,
+                        "carbohydrates_total_g": 10.1
+                    },
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 53,
+                        "name": "pork chop",
+                        "potassium_mg": 221,
+                        "fat_saturated_g": 3.5,
+                        "fat_total_g": 11.2,
+                        "calories": 208.6,
+                        "cholesterol_mg": 82,
+                        "protein_g": 25.4,
+                        "carbohydrates_total_g": 0
+                    },
+                    {
+                        "sugar_g": 0.1,
+                        "fiber_g": 0.4,
+                        "serving_size_g": 100,
+                        "sodium_mg": 1,
+                        "name": "rice",
+                        "potassium_mg": 42,
+                        "fat_saturated_g": 0.1,
+                        "fat_total_g": 0.3,
+                        "calories": 127.4,
+                        "cholesterol_mg": 0,
+                        "protein_g": 2.7,
+                        "carbohydrates_total_g": 28.4
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Eggplant with Chicken Over Rice",
+            "price": 8.49,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 3.2,
+                        "fiber_g": 2.5,
+                        "serving_size_g": 100,
+                        "sodium_mg": 0,
+                        "name": "eggplant",
+                        "potassium_mg": 15,
+                        "fat_saturated_g": 0,
+                        "fat_total_g": 0.2,
+                        "calories": 34.7,
+                        "cholesterol_mg": 0,
+                        "protein_g": 0.8,
+                        "carbohydrates_total_g": 8.7
+                    },
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 72,
+                        "name": "chicken",
+                        "potassium_mg": 179,
+                        "fat_saturated_g": 3.7,
+                        "fat_total_g": 12.9,
+                        "calories": 222.6,
+                        "cholesterol_mg": 92,
+                        "protein_g": 23.7,
+                        "carbohydrates_total_g": 0
+                    },
+                    {
+                        "sugar_g": 0.1,
+                        "fiber_g": 0.4,
+                        "serving_size_g": 100,
+                        "sodium_mg": 1,
+                        "name": "rice",
+                        "potassium_mg": 42,
+                        "fat_saturated_g": 0.1,
+                        "fat_total_g": 0.3,
+                        "calories": 127.4,
+                        "cholesterol_mg": 0,
+                        "protein_g": 2.7,
+                        "carbohydrates_total_g": 28.4
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Bitter Melon with Beef Over Rice",
+            "price": 8.49,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 1.9,
+                        "fiber_g": 2,
+                        "serving_size_g": 100,
+                        "sodium_mg": 6,
+                        "name": "bitter melon",
+                        "potassium_mg": 36,
+                        "fat_saturated_g": 0,
+                        "fat_total_g": 0.2,
+                        "calories": 19.4,
+                        "cholesterol_mg": 0,
+                        "protein_g": 0.8,
+                        "carbohydrates_total_g": 4.4
+                    },
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 63,
+                        "name": "beef",
+                        "potassium_mg": 206,
+                        "fat_saturated_g": 7.8,
+                        "fat_total_g": 19.7,
+                        "calories": 291.9,
+                        "cholesterol_mg": 87,
+                        "protein_g": 26.6,
+                        "carbohydrates_total_g": 0
+                    },
+                    {
+                        "sugar_g": 0.1,
+                        "fiber_g": 0.4,
+                        "serving_size_g": 100,
+                        "sodium_mg": 1,
+                        "name": "rice",
+                        "potassium_mg": 42,
+                        "fat_saturated_g": 0.1,
+                        "fat_total_g": 0.3,
+                        "calories": 127.4,
+                        "cholesterol_mg": 0,
+                        "protein_g": 2.7,
+                        "carbohydrates_total_g": 28.4
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Tomato Chicken Over Rice",
+            "price": 8.49,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 2.6,
+                        "fiber_g": 1.2,
+                        "serving_size_g": 100,
+                        "sodium_mg": 4,
+                        "name": "tomato",
+                        "potassium_mg": 23,
+                        "fat_saturated_g": 0,
+                        "fat_total_g": 0.2,
+                        "calories": 18.2,
+                        "cholesterol_mg": 0,
+                        "protein_g": 0.9,
+                        "carbohydrates_total_g": 3.9
+                    },
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 72,
+                        "name": "chicken",
+                        "potassium_mg": 179,
+                        "fat_saturated_g": 3.7,
+                        "fat_total_g": 12.9,
+                        "calories": 222.6,
+                        "cholesterol_mg": 92,
+                        "protein_g": 23.7,
+                        "carbohydrates_total_g": 0
+                    },
+                    {
+                        "sugar_g": 0.1,
+                        "fiber_g": 0.4,
+                        "serving_size_g": 100,
+                        "sodium_mg": 1,
+                        "name": "rice",
+                        "potassium_mg": 42,
+                        "fat_saturated_g": 0.1,
+                        "fat_total_g": 0.3,
+                        "calories": 127.4,
+                        "cholesterol_mg": 0,
+                        "protein_g": 2.7,
+                        "carbohydrates_total_g": 28.4
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Tomato Beef Over Rice",
+            "price": 8.49,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 2.6,
+                        "fiber_g": 1.2,
+                        "serving_size_g": 100,
+                        "sodium_mg": 4,
+                        "name": "tomato",
+                        "potassium_mg": 23,
+                        "fat_saturated_g": 0,
+                        "fat_total_g": 0.2,
+                        "calories": 18.2,
+                        "cholesterol_mg": 0,
+                        "protein_g": 0.9,
+                        "carbohydrates_total_g": 3.9
+                    },
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 63,
+                        "name": "beef",
+                        "potassium_mg": 206,
+                        "fat_saturated_g": 7.8,
+                        "fat_total_g": 19.7,
+                        "calories": 291.9,
+                        "cholesterol_mg": 87,
+                        "protein_g": 26.6,
+                        "carbohydrates_total_g": 0
+                    },
+                    {
+                        "sugar_g": 0.1,
+                        "fiber_g": 0.4,
+                        "serving_size_g": 100,
+                        "sodium_mg": 1,
+                        "name": "rice",
+                        "potassium_mg": 42,
+                        "fat_saturated_g": 0.1,
+                        "fat_total_g": 0.3,
+                        "calories": 127.4,
+                        "cholesterol_mg": 0,
+                        "protein_g": 2.7,
+                        "carbohydrates_total_g": 28.4
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Cream Corn with Pork Over Rice",
+            "price": 8.49,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 3.2,
+                        "fiber_g": 1.2,
+                        "serving_size_g": 100,
+                        "sodium_mg": 259,
+                        "name": "cream corn",
+                        "potassium_mg": 51,
+                        "fat_saturated_g": 0.1,
+                        "fat_total_g": 0.4,
+                        "calories": 73.9,
+                        "cholesterol_mg": 0,
+                        "protein_g": 1.7,
+                        "carbohydrates_total_g": 18.1
+                    },
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 57,
+                        "name": "pork",
+                        "potassium_mg": 219,
+                        "fat_saturated_g": 4.9,
+                        "fat_total_g": 14,
+                        "calories": 236.2,
+                        "cholesterol_mg": 88,
+                        "protein_g": 26.2,
+                        "carbohydrates_total_g": 0
+                    },
+                    {
+                        "sugar_g": 0.1,
+                        "fiber_g": 0.4,
+                        "serving_size_g": 100,
+                        "sodium_mg": 1,
+                        "name": "rice",
+                        "potassium_mg": 42,
+                        "fat_saturated_g": 0.1,
+                        "fat_total_g": 0.3,
+                        "calories": 127.4,
+                        "cholesterol_mg": 0,
+                        "protein_g": 2.7,
+                        "carbohydrates_total_g": 28.4
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Cream Corn with Chicken Over Rice",
+            "price": 8.49,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 3.2,
+                        "fiber_g": 1.2,
+                        "serving_size_g": 100,
+                        "sodium_mg": 259,
+                        "name": "cream corn",
+                        "potassium_mg": 51,
+                        "fat_saturated_g": 0.1,
+                        "fat_total_g": 0.4,
+                        "calories": 73.9,
+                        "cholesterol_mg": 0,
+                        "protein_g": 1.7,
+                        "carbohydrates_total_g": 18.1
+                    },
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 72,
+                        "name": "chicken",
+                        "potassium_mg": 179,
+                        "fat_saturated_g": 3.7,
+                        "fat_total_g": 12.9,
+                        "calories": 222.6,
+                        "cholesterol_mg": 92,
+                        "protein_g": 23.7,
+                        "carbohydrates_total_g": 0
+                    },
+                    {
+                        "sugar_g": 0.1,
+                        "fiber_g": 0.4,
+                        "serving_size_g": 100,
+                        "sodium_mg": 1,
+                        "name": "rice",
+                        "potassium_mg": 42,
+                        "fat_saturated_g": 0.1,
+                        "fat_total_g": 0.3,
+                        "calories": 127.4,
+                        "cholesterol_mg": 0,
+                        "protein_g": 2.7,
+                        "carbohydrates_total_g": 28.4
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Baked Beef Steak",
+            "price": 11.99,
+            "desc": "All baked dishes topped with melted cheese.",
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 52,
+                        "name": "beef steak",
+                        "potassium_mg": 193,
+                        "fat_saturated_g": 7.2,
+                        "fat_total_g": 18.4,
+                        "calories": 283.6,
+                        "cholesterol_mg": 98,
+                        "protein_g": 26.1,
+                        "carbohydrates_total_g": 0
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Baked Shrimp",
+            "price": 10.99,
+            "desc": "All baked dishes topped with melted cheese.",
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 941,
+                        "name": "baked shrimp",
+                        "potassium_mg": 311,
+                        "fat_saturated_g": 0.5,
+                        "fat_total_g": 1.7,
+                        "calories": 118.3,
+                        "cholesterol_mg": 211,
+                        "protein_g": 22.9,
+                        "carbohydrates_total_g": 1.5
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Baked Seafood In Cream Sauce",
+            "price": 10.99,
+            "desc": "All baked dishes topped with melted cheese.",
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0.1,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 407,
+                        "name": "seafood",
+                        "potassium_mg": 290,
+                        "fat_saturated_g": 0.7,
+                        "fat_total_g": 3.5,
+                        "calories": 139.7,
+                        "cholesterol_mg": 80,
+                        "protein_g": 22.2,
+                        "carbohydrates_total_g": 2.7
+                    },
+                    {
+                        "sugar_g": 4.3,
+                        "fiber_g": 0.1,
+                        "serving_size_g": 100,
+                        "sodium_mg": 98,
+                        "name": "cream sauce",
+                        "potassium_mg": 78,
+                        "fat_saturated_g": 6.6,
+                        "fat_total_g": 10.7,
+                        "calories": 142.2,
+                        "cholesterol_mg": 30,
+                        "protein_g": 3.3,
+                        "carbohydrates_total_g": 8.3
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Baked Crab Sticks & Shrimp",
+            "price": 10.99,
+            "desc": "All baked dishes topped with melted cheese.",
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 6.3,
+                        "fiber_g": 0.5,
+                        "serving_size_g": 100,
+                        "sodium_mg": 531,
+                        "name": "crab sticks",
+                        "potassium_mg": 285,
+                        "fat_saturated_g": 0.2,
+                        "fat_total_g": 0.5,
+                        "calories": 93.1,
+                        "cholesterol_mg": 20,
+                        "protein_g": 7.6,
+                        "carbohydrates_total_g": 14.7
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Baked Pork Chop Deluxe(with Egg & Chicken Wing)",
+            "price": 10.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 53,
+                        "name": "pork chop",
+                        "potassium_mg": 221,
+                        "fat_saturated_g": 3.5,
+                        "fat_total_g": 11.2,
+                        "calories": 208.6,
+                        "cholesterol_mg": 82,
+                        "protein_g": 25.4,
+                        "carbohydrates_total_g": 0
+                    },
+                    {
+                        "sugar_g": 0.4,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 139,
+                        "name": "egg",
+                        "potassium_mg": 199,
+                        "fat_saturated_g": 3.1,
+                        "fat_total_g": 9.7,
+                        "calories": 147,
+                        "cholesterol_mg": 371,
+                        "protein_g": 12.5,
+                        "carbohydrates_total_g": 0.7
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Baked Fish Fillet",
+            "price": 9.99,
+            "desc": "All baked dishes topped with melted cheese.",
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 113,
+                        "name": "fish fillet",
+                        "potassium_mg": 186,
+                        "fat_saturated_g": 0.2,
+                        "fat_total_g": 0.9,
+                        "calories": 112.1,
+                        "cholesterol_mg": 94,
+                        "protein_g": 23.9,
+                        "carbohydrates_total_g": 0
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Baked Curry Chicken & Pork Chop",
+            "price": 9.99,
+            "desc": "All baked dishes topped with melted cheese.",
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0.9,
+                        "fiber_g": 0.6,
+                        "serving_size_g": 100,
+                        "sodium_mg": 31,
+                        "name": "curry chicken",
+                        "potassium_mg": 97,
+                        "fat_saturated_g": 0.6,
+                        "fat_total_g": 4.6,
+                        "calories": 101.4,
+                        "cholesterol_mg": 31,
+                        "protein_g": 12.1,
+                        "carbohydrates_total_g": 3.2
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Baked Half & Half (Pork Chop with Rice & Meat Sauce Spaghetti)",
+            "price": 9.99,
+            "nutrition": {
+                "items": []
+            }
+        },
+        {
+            "name": "Baked Beef Spare Rib",
+            "price": 9.49,
+            "desc": "All baked dishes topped with melted cheese.",
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 63,
+                        "name": "beef",
+                        "potassium_mg": 206,
+                        "fat_saturated_g": 7.8,
+                        "fat_total_g": 19.7,
+                        "calories": 291.9,
+                        "cholesterol_mg": 87,
+                        "protein_g": 26.6,
+                        "carbohydrates_total_g": 0
+                    },
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 91,
+                        "name": "rib",
+                        "potassium_mg": 159,
+                        "fat_saturated_g": 9.2,
+                        "fat_total_g": 30.8,
+                        "calories": 365.5,
+                        "cholesterol_mg": 102,
+                        "protein_g": 21,
+                        "carbohydrates_total_g": 0
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Baked Swiss Beef Steak with Tomato Sauce",
+            "price": 9.49,
+            "desc": "All baked dishes topped with melted cheese.",
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 183,
+                        "name": "swiss",
+                        "potassium_mg": 573,
+                        "fat_saturated_g": 18.1,
+                        "fat_total_g": 30.7,
+                        "calories": 383.8,
+                        "cholesterol_mg": 91,
+                        "protein_g": 27.1,
+                        "carbohydrates_total_g": 1.5
+                    },
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 52,
+                        "name": "beef steak",
+                        "potassium_mg": 193,
+                        "fat_saturated_g": 7.2,
+                        "fat_total_g": 18.4,
+                        "calories": 283.6,
+                        "cholesterol_mg": 98,
+                        "protein_g": 26.1,
+                        "carbohydrates_total_g": 0
+                    },
+                    {
+                        "sugar_g": 3.6,
+                        "fiber_g": 1.5,
+                        "serving_size_g": 100,
+                        "sodium_mg": 472,
+                        "name": "tomato sauce",
+                        "potassium_mg": 26,
+                        "fat_saturated_g": 0,
+                        "fat_total_g": 0.3,
+                        "calories": 24.6,
+                        "cholesterol_mg": 0,
+                        "protein_g": 1.2,
+                        "carbohydrates_total_g": 5.4
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Baked Chicken & Broccoli",
+            "price": 8.99,
+            "desc": "All baked dishes topped with melted cheese.",
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 71,
+                        "name": "baked chicken",
+                        "potassium_mg": 176,
+                        "fat_saturated_g": 3.7,
+                        "fat_total_g": 13.1,
+                        "calories": 223.3,
+                        "cholesterol_mg": 92,
+                        "protein_g": 23.9,
+                        "carbohydrates_total_g": 0
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Baked Hawaii Special (Ham & Pineapple)",
+            "price": 8.99,
+            "nutrition": {
+                "items": []
+            }
+        },
+        {
+            "name": "Baked Pork Chop",
+            "price": 8.99,
+            "desc": "All baked dishes topped with melted cheese.",
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 53,
+                        "name": "pork chop",
+                        "potassium_mg": 221,
+                        "fat_saturated_g": 3.5,
+                        "fat_total_g": 11.2,
+                        "calories": 208.6,
+                        "cholesterol_mg": 82,
+                        "protein_g": 25.4,
+                        "carbohydrates_total_g": 0
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Baked Chicken Fillet",
+            "price": 8.99,
+            "desc": "All baked dishes topped with melted cheese.",
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 71,
+                        "name": "baked chicken",
+                        "potassium_mg": 176,
+                        "fat_saturated_g": 3.7,
+                        "fat_total_g": 13.1,
+                        "calories": 223.3,
+                        "cholesterol_mg": 92,
+                        "protein_g": 23.9,
+                        "carbohydrates_total_g": 0
+                    },
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 75,
+                        "name": "chicken fillet",
+                        "potassium_mg": 227,
+                        "fat_saturated_g": 1,
+                        "fat_total_g": 3.6,
+                        "calories": 163.9,
+                        "cholesterol_mg": 86,
+                        "protein_g": 31.3,
+                        "carbohydrates_total_g": 0
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Baked Chicken & Ham",
+            "price": 8.99,
+            "desc": "All baked dishes topped with melted cheese.",
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 71,
+                        "name": "baked chicken",
+                        "potassium_mg": 176,
+                        "fat_saturated_g": 3.7,
+                        "fat_total_g": 13.1,
+                        "calories": 223.3,
+                        "cholesterol_mg": 92,
+                        "protein_g": 23.9,
+                        "carbohydrates_total_g": 0
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Baked Meat Sauce Spaghetti",
+            "price": 8.99,
+            "desc": "All baked dishes topped with melted cheese.",
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 7.6,
+                        "fiber_g": 2.3,
+                        "serving_size_g": 100,
+                        "sodium_mg": 371,
+                        "name": "meat sauce",
+                        "potassium_mg": 0,
+                        "fat_saturated_g": 0.8,
+                        "fat_total_g": 2.3,
+                        "calories": 77.8,
+                        "cholesterol_mg": 4,
+                        "protein_g": 3.1,
+                        "carbohydrates_total_g": 10
+                    },
+                    {
+                        "sugar_g": 1.1,
+                        "fiber_g": 1.3,
+                        "serving_size_g": 100,
+                        "sodium_mg": 4,
+                        "name": "spaghetti",
+                        "potassium_mg": 75,
+                        "fat_saturated_g": 0.1,
+                        "fat_total_g": 0.6,
+                        "calories": 154.1,
+                        "cholesterol_mg": 0,
+                        "protein_g": 5.3,
+                        "carbohydrates_total_g": 30.6
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Italian Chicken",
+            "price": 8.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0.6,
+                        "fiber_g": 0.4,
+                        "serving_size_g": 100,
+                        "sodium_mg": 308,
+                        "name": "italian chicken",
+                        "potassium_mg": 94,
+                        "fat_saturated_g": 6.9,
+                        "fat_total_g": 19,
+                        "calories": 248,
+                        "cholesterol_mg": 47,
+                        "protein_g": 10.8,
+                        "carbohydrates_total_g": 5.6
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Italian Pork Chop",
+            "price": 8.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 53,
+                        "name": "pork chop",
+                        "potassium_mg": 221,
+                        "fat_saturated_g": 3.5,
+                        "fat_total_g": 11.2,
+                        "calories": 208.6,
+                        "cholesterol_mg": 82,
+                        "protein_g": 25.4,
+                        "carbohydrates_total_g": 0
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Black Pepper Swiss Beef Steak",
+            "price": 8.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0.4,
+                        "fiber_g": 24.8,
+                        "serving_size_g": 100,
+                        "sodium_mg": 20,
+                        "name": "black pepper",
+                        "potassium_mg": 158,
+                        "fat_saturated_g": 1.3,
+                        "fat_total_g": 3,
+                        "calories": 245.3,
+                        "cholesterol_mg": 0,
+                        "protein_g": 10.5,
+                        "carbohydrates_total_g": 64.1
+                    },
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 183,
+                        "name": "swiss",
+                        "potassium_mg": 573,
+                        "fat_saturated_g": 18.1,
+                        "fat_total_g": 30.7,
+                        "calories": 383.8,
+                        "cholesterol_mg": 91,
+                        "protein_g": 27.1,
+                        "carbohydrates_total_g": 1.5
+                    },
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 52,
+                        "name": "beef steak",
+                        "potassium_mg": 193,
+                        "fat_saturated_g": 7.2,
+                        "fat_total_g": 18.4,
+                        "calories": 283.6,
+                        "cholesterol_mg": 98,
+                        "protein_g": 26.1,
+                        "carbohydrates_total_g": 0
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Black Pepper Beef Short Rib",
+            "price": 8.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0.4,
+                        "fiber_g": 24.8,
+                        "serving_size_g": 100,
+                        "sodium_mg": 20,
+                        "name": "black pepper",
+                        "potassium_mg": 158,
+                        "fat_saturated_g": 1.3,
+                        "fat_total_g": 3,
+                        "calories": 245.3,
+                        "cholesterol_mg": 0,
+                        "protein_g": 10.5,
+                        "carbohydrates_total_g": 64.1
+                    },
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 63,
+                        "name": "beef",
+                        "potassium_mg": 206,
+                        "fat_saturated_g": 7.8,
+                        "fat_total_g": 19.7,
+                        "calories": 291.9,
+                        "cholesterol_mg": 87,
+                        "protein_g": 26.6,
+                        "carbohydrates_total_g": 0
+                    },
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 68,
+                        "name": "short rib",
+                        "potassium_mg": 171,
+                        "fat_saturated_g": 10,
+                        "fat_total_g": 22.3,
+                        "calories": 303.3,
+                        "cholesterol_mg": 99,
+                        "protein_g": 25.3,
+                        "carbohydrates_total_g": 0
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Swiss Beef Steak with Tomato Sauce",
+            "price": 8.99,
+            "desc": "Served with spaghetti.",
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 183,
+                        "name": "swiss",
+                        "potassium_mg": 573,
+                        "fat_saturated_g": 18.1,
+                        "fat_total_g": 30.7,
+                        "calories": 383.8,
+                        "cholesterol_mg": 91,
+                        "protein_g": 27.1,
+                        "carbohydrates_total_g": 1.5
+                    },
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 52,
+                        "name": "beef steak",
+                        "potassium_mg": 193,
+                        "fat_saturated_g": 7.2,
+                        "fat_total_g": 18.4,
+                        "calories": 283.6,
+                        "cholesterol_mg": 98,
+                        "protein_g": 26.1,
+                        "carbohydrates_total_g": 0
+                    },
+                    {
+                        "sugar_g": 3.6,
+                        "fiber_g": 1.5,
+                        "serving_size_g": 100,
+                        "sodium_mg": 472,
+                        "name": "tomato sauce",
+                        "potassium_mg": 26,
+                        "fat_saturated_g": 0,
+                        "fat_total_g": 0.3,
+                        "calories": 24.6,
+                        "cholesterol_mg": 0,
+                        "protein_g": 1.2,
+                        "carbohydrates_total_g": 5.4
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Beef Short Rib with Tomato Sauce",
+            "price": 8.99,
+            "desc": "Served with rice.",
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 63,
+                        "name": "beef",
+                        "potassium_mg": 206,
+                        "fat_saturated_g": 7.8,
+                        "fat_total_g": 19.7,
+                        "calories": 291.9,
+                        "cholesterol_mg": 87,
+                        "protein_g": 26.6,
+                        "carbohydrates_total_g": 0
+                    },
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 68,
+                        "name": "short rib",
+                        "potassium_mg": 171,
+                        "fat_saturated_g": 10,
+                        "fat_total_g": 22.3,
+                        "calories": 303.3,
+                        "cholesterol_mg": 99,
+                        "protein_g": 25.3,
+                        "carbohydrates_total_g": 0
+                    },
+                    {
+                        "sugar_g": 3.6,
+                        "fiber_g": 1.5,
+                        "serving_size_g": 100,
+                        "sodium_mg": 472,
+                        "name": "tomato sauce",
+                        "potassium_mg": 26,
+                        "fat_saturated_g": 0,
+                        "fat_total_g": 0.3,
+                        "calories": 24.6,
+                        "cholesterol_mg": 0,
+                        "protein_g": 1.2,
+                        "carbohydrates_total_g": 5.4
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Chicken with Tomato Sauce",
+            "price": 8.49,
+            "desc": "Served with spaghetti.",
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 72,
+                        "name": "chicken",
+                        "potassium_mg": 179,
+                        "fat_saturated_g": 3.7,
+                        "fat_total_g": 12.9,
+                        "calories": 222.6,
+                        "cholesterol_mg": 92,
+                        "protein_g": 23.7,
+                        "carbohydrates_total_g": 0
+                    },
+                    {
+                        "sugar_g": 3.6,
+                        "fiber_g": 1.5,
+                        "serving_size_g": 100,
+                        "sodium_mg": 472,
+                        "name": "tomato sauce",
+                        "potassium_mg": 26,
+                        "fat_saturated_g": 0,
+                        "fat_total_g": 0.3,
+                        "calories": 24.6,
+                        "cholesterol_mg": 0,
+                        "protein_g": 1.2,
+                        "carbohydrates_total_g": 5.4
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Pork Chop with Tomato Sauce",
+            "price": 8.49,
+            "desc": "Served with spaghetti.",
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 53,
+                        "name": "pork chop",
+                        "potassium_mg": 221,
+                        "fat_saturated_g": 3.5,
+                        "fat_total_g": 11.2,
+                        "calories": 208.6,
+                        "cholesterol_mg": 82,
+                        "protein_g": 25.4,
+                        "carbohydrates_total_g": 0
+                    },
+                    {
+                        "sugar_g": 3.6,
+                        "fiber_g": 1.5,
+                        "serving_size_g": 100,
+                        "sodium_mg": 472,
+                        "name": "tomato sauce",
+                        "potassium_mg": 26,
+                        "fat_saturated_g": 0,
+                        "fat_total_g": 0.3,
+                        "calories": 24.6,
+                        "cholesterol_mg": 0,
+                        "protein_g": 1.2,
+                        "carbohydrates_total_g": 5.4
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Meat Sauce Spaghetti with Tomato Sauce",
+            "price": 8.49,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 7.6,
+                        "fiber_g": 2.3,
+                        "serving_size_g": 100,
+                        "sodium_mg": 371,
+                        "name": "meat sauce",
+                        "potassium_mg": 0,
+                        "fat_saturated_g": 0.8,
+                        "fat_total_g": 2.3,
+                        "calories": 77.8,
+                        "cholesterol_mg": 4,
+                        "protein_g": 3.1,
+                        "carbohydrates_total_g": 10
+                    },
+                    {
+                        "sugar_g": 2.4,
+                        "fiber_g": 1.9,
+                        "serving_size_g": 100,
+                        "sodium_mg": 184,
+                        "name": "spaghetti with tomato sauce",
+                        "potassium_mg": 45,
+                        "fat_saturated_g": 0.3,
+                        "fat_total_g": 1.9,
+                        "calories": 106.1,
+                        "cholesterol_mg": 0,
+                        "protein_g": 3.8,
+                        "carbohydrates_total_g": 19.7
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Black Pepper Chicken",
+            "price": 8.49,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 1.7,
+                        "fiber_g": 1.1,
+                        "serving_size_g": 100,
+                        "sodium_mg": 378,
+                        "name": "black pepper chicken",
+                        "potassium_mg": 103,
+                        "fat_saturated_g": 1.2,
+                        "fat_total_g": 6.1,
+                        "calories": 143.8,
+                        "cholesterol_mg": 50,
+                        "protein_g": 11.2,
+                        "carbohydrates_total_g": 10.6
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Black Pepper Pork Chop",
+            "price": 8.49,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0.4,
+                        "fiber_g": 24.8,
+                        "serving_size_g": 100,
+                        "sodium_mg": 20,
+                        "name": "black pepper",
+                        "potassium_mg": 158,
+                        "fat_saturated_g": 1.3,
+                        "fat_total_g": 3,
+                        "calories": 245.3,
+                        "cholesterol_mg": 0,
+                        "protein_g": 10.5,
+                        "carbohydrates_total_g": 64.1
+                    },
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 53,
+                        "name": "pork chop",
+                        "potassium_mg": 221,
+                        "fat_saturated_g": 3.5,
+                        "fat_total_g": 11.2,
+                        "calories": 208.6,
+                        "cholesterol_mg": 82,
+                        "protein_g": 25.4,
+                        "carbohydrates_total_g": 0
+                    }
+                ]
+            }
+        },
+        {
+            "name": "House Fried Cham Poong Noodle Soup",
+            "price": 9.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0.3,
+                        "fiber_g": 0.2,
+                        "serving_size_g": 100,
+                        "sodium_mg": 346,
+                        "name": "noodle soup",
+                        "potassium_mg": 16,
+                        "fat_saturated_g": 0.3,
+                        "fat_total_g": 1,
+                        "calories": 25.1,
+                        "cholesterol_mg": 4,
+                        "protein_g": 1.3,
+                        "carbohydrates_total_g": 2.9
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Beef Stew Wonton Noodle Soup",
+            "price": 7.49,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 1.8,
+                        "fiber_g": 1.3,
+                        "serving_size_g": 100,
+                        "sodium_mg": 66,
+                        "name": "beef stew",
+                        "potassium_mg": 100,
+                        "fat_saturated_g": 1.5,
+                        "fat_total_g": 3.2,
+                        "calories": 103.9,
+                        "cholesterol_mg": 34,
+                        "protein_g": 11.5,
+                        "carbohydrates_total_g": 8.2
+                    },
+                    {
+                        "sugar_g": 1.3,
+                        "fiber_g": 1.2,
+                        "serving_size_g": 100,
+                        "sodium_mg": 697,
+                        "name": "wonton",
+                        "potassium_mg": 130,
+                        "fat_saturated_g": 1.7,
+                        "fat_total_g": 5.6,
+                        "calories": 238.3,
+                        "cholesterol_mg": 52,
+                        "protein_g": 12.8,
+                        "carbohydrates_total_g": 31.3
+                    },
+                    {
+                        "sugar_g": 0.3,
+                        "fiber_g": 0.2,
+                        "serving_size_g": 100,
+                        "sodium_mg": 346,
+                        "name": "noodle soup",
+                        "potassium_mg": 16,
+                        "fat_saturated_g": 0.3,
+                        "fat_total_g": 1,
+                        "calories": 25.1,
+                        "cholesterol_mg": 4,
+                        "protein_g": 1.3,
+                        "carbohydrates_total_g": 2.9
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Wonton Soup",
+            "price": 6.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0.3,
+                        "fiber_g": 0.2,
+                        "serving_size_g": 100,
+                        "sodium_mg": 409,
+                        "name": "wonton soup",
+                        "potassium_mg": 17,
+                        "fat_saturated_g": 0.1,
+                        "fat_total_g": 0.3,
+                        "calories": 32.7,
+                        "cholesterol_mg": 4,
+                        "protein_g": 2.1,
+                        "carbohydrates_total_g": 5.3
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Wonton Noodle Soup",
+            "price": 6.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 1.3,
+                        "fiber_g": 1.2,
+                        "serving_size_g": 100,
+                        "sodium_mg": 697,
+                        "name": "wonton",
+                        "potassium_mg": 130,
+                        "fat_saturated_g": 1.7,
+                        "fat_total_g": 5.6,
+                        "calories": 238.3,
+                        "cholesterol_mg": 52,
+                        "protein_g": 12.8,
+                        "carbohydrates_total_g": 31.3
+                    },
+                    {
+                        "sugar_g": 0.3,
+                        "fiber_g": 0.2,
+                        "serving_size_g": 100,
+                        "sodium_mg": 346,
+                        "name": "noodle soup",
+                        "potassium_mg": 16,
+                        "fat_saturated_g": 0.3,
+                        "fat_total_g": 1,
+                        "calories": 25.1,
+                        "cholesterol_mg": 4,
+                        "protein_g": 1.3,
+                        "carbohydrates_total_g": 2.9
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Fish Ball Noodle Soup",
+            "price": 6.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 2.2,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 595,
+                        "name": "fish ball",
+                        "potassium_mg": 205,
+                        "fat_saturated_g": 3.1,
+                        "fat_total_g": 13.5,
+                        "calories": 220.9,
+                        "cholesterol_mg": 53,
+                        "protein_g": 18.5,
+                        "carbohydrates_total_g": 4
+                    },
+                    {
+                        "sugar_g": 0.3,
+                        "fiber_g": 0.2,
+                        "serving_size_g": 100,
+                        "sodium_mg": 346,
+                        "name": "noodle soup",
+                        "potassium_mg": 16,
+                        "fat_saturated_g": 0.3,
+                        "fat_total_g": 1,
+                        "calories": 25.1,
+                        "cholesterol_mg": 4,
+                        "protein_g": 1.3,
+                        "carbohydrates_total_g": 2.9
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Octopus Ball Noodle Soup",
+            "price": 6.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 453,
+                        "name": "octopus",
+                        "potassium_mg": 279,
+                        "fat_saturated_g": 0.5,
+                        "fat_total_g": 2.1,
+                        "calories": 160.6,
+                        "cholesterol_mg": 94,
+                        "protein_g": 29.9,
+                        "carbohydrates_total_g": 4.4
+                    },
+                    {
+                        "sugar_g": 0.3,
+                        "fiber_g": 0.2,
+                        "serving_size_g": 100,
+                        "sodium_mg": 346,
+                        "name": "noodle soup",
+                        "potassium_mg": 16,
+                        "fat_saturated_g": 0.3,
+                        "fat_total_g": 1,
+                        "calories": 25.1,
+                        "cholesterol_mg": 4,
+                        "protein_g": 1.3,
+                        "carbohydrates_total_g": 2.9
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Pork Chop Noodle Soup",
+            "price": 6.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 53,
+                        "name": "pork chop",
+                        "potassium_mg": 221,
+                        "fat_saturated_g": 3.5,
+                        "fat_total_g": 11.2,
+                        "calories": 208.6,
+                        "cholesterol_mg": 82,
+                        "protein_g": 25.4,
+                        "carbohydrates_total_g": 0
+                    },
+                    {
+                        "sugar_g": 0.3,
+                        "fiber_g": 0.2,
+                        "serving_size_g": 100,
+                        "sodium_mg": 346,
+                        "name": "noodle soup",
+                        "potassium_mg": 16,
+                        "fat_saturated_g": 0.3,
+                        "fat_total_g": 1,
+                        "calories": 25.1,
+                        "cholesterol_mg": 4,
+                        "protein_g": 1.3,
+                        "carbohydrates_total_g": 2.9
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Beef Stew Noodle Soup",
+            "price": 6.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 1.8,
+                        "fiber_g": 1.3,
+                        "serving_size_g": 100,
+                        "sodium_mg": 66,
+                        "name": "beef stew",
+                        "potassium_mg": 100,
+                        "fat_saturated_g": 1.5,
+                        "fat_total_g": 3.2,
+                        "calories": 103.9,
+                        "cholesterol_mg": 34,
+                        "protein_g": 11.5,
+                        "carbohydrates_total_g": 8.2
+                    },
+                    {
+                        "sugar_g": 0.3,
+                        "fiber_g": 0.2,
+                        "serving_size_g": 100,
+                        "sodium_mg": 346,
+                        "name": "noodle soup",
+                        "potassium_mg": 16,
+                        "fat_saturated_g": 0.3,
+                        "fat_total_g": 1,
+                        "calories": 25.1,
+                        "cholesterol_mg": 4,
+                        "protein_g": 1.3,
+                        "carbohydrates_total_g": 2.9
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Pork with Snow Cabbage Noodle",
+            "price": 6.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 57,
+                        "name": "pork",
+                        "potassium_mg": 219,
+                        "fat_saturated_g": 4.9,
+                        "fat_total_g": 14,
+                        "calories": 236.2,
+                        "cholesterol_mg": 88,
+                        "protein_g": 26.2,
+                        "carbohydrates_total_g": 0
+                    },
+                    {
+                        "sugar_g": 2.8,
+                        "fiber_g": 1.9,
+                        "serving_size_g": 100,
+                        "sodium_mg": 7,
+                        "name": "cabbage",
+                        "potassium_mg": 32,
+                        "fat_saturated_g": 0,
+                        "fat_total_g": 0.1,
+                        "calories": 23.4,
+                        "cholesterol_mg": 0,
+                        "protein_g": 1.3,
+                        "carbohydrates_total_g": 5.5
+                    },
+                    {
+                        "sugar_g": 0.6,
+                        "fiber_g": 1.8,
+                        "serving_size_g": 100,
+                        "sodium_mg": 0,
+                        "name": "noodle",
+                        "potassium_mg": 58,
+                        "fat_saturated_g": 0.2,
+                        "fat_total_g": 0.9,
+                        "calories": 162.4,
+                        "cholesterol_mg": 0,
+                        "protein_g": 5.8,
+                        "carbohydrates_total_g": 30.3
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Seafood Porridge",
+            "price": 8.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0.1,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 407,
+                        "name": "seafood",
+                        "potassium_mg": 290,
+                        "fat_saturated_g": 0.7,
+                        "fat_total_g": 3.5,
+                        "calories": 139.7,
+                        "cholesterol_mg": 80,
+                        "protein_g": 22.2,
+                        "carbohydrates_total_g": 2.7
+                    },
+                    {
+                        "sugar_g": 0.1,
+                        "fiber_g": 1.2,
+                        "serving_size_g": 100,
+                        "sodium_mg": 47,
+                        "name": "porridge",
+                        "potassium_mg": 136,
+                        "fat_saturated_g": 1.2,
+                        "fat_total_g": 2.4,
+                        "calories": 91,
+                        "cholesterol_mg": 7,
+                        "protein_g": 4.7,
+                        "carbohydrates_total_g": 12.7
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Sliced Fish Porridge",
+            "price": 7.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 57,
+                        "name": "fish",
+                        "potassium_mg": 203,
+                        "fat_saturated_g": 0.9,
+                        "fat_total_g": 2.7,
+                        "calories": 129.2,
+                        "cholesterol_mg": 56,
+                        "protein_g": 26,
+                        "carbohydrates_total_g": 0
+                    },
+                    {
+                        "sugar_g": 0.1,
+                        "fiber_g": 1.2,
+                        "serving_size_g": 100,
+                        "sodium_mg": 47,
+                        "name": "porridge",
+                        "potassium_mg": 136,
+                        "fat_saturated_g": 1.2,
+                        "fat_total_g": 2.4,
+                        "calories": 91,
+                        "cholesterol_mg": 7,
+                        "protein_g": 4.7,
+                        "carbohydrates_total_g": 12.7
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Sliced Fish & Beef Porridge",
+            "price": 7.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 57,
+                        "name": "fish",
+                        "potassium_mg": 203,
+                        "fat_saturated_g": 0.9,
+                        "fat_total_g": 2.7,
+                        "calories": 129.2,
+                        "cholesterol_mg": 56,
+                        "protein_g": 26,
+                        "carbohydrates_total_g": 0
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Pork & Preserved Egg Porridge",
+            "price": 6.99,
+            "nutrition": {
+                "items": [
+                    {
+                        "sugar_g": 0,
+                        "fiber_g": 0,
+                        "serving_size_g": 100,
+                        "sodium_mg": 57,
+                        "name": "pork",
+                        "potassium_mg": 219,
+                        "fat_saturated_g": 4.9,
+                        "fat_total_g": 14,
+                        "calories": 236.2,
+                        "cholesterol_mg": 88,
+                        "protein_g": 26.2,
+                        "carbohydrates_total_g": 0
+                    }
+                ]
+            }
+        }
+    ],
+    "public_img_id": [
+        "Full_House__1",
+        "Full_House__2"
+    ],
+    "avg_kcal": 139,
+    "avg_price": 8
+}

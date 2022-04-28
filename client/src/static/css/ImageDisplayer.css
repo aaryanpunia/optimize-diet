@@ -1,0 +1,28 @@
+.Img-Display {
+    width: 100%;
+    border: none;
+    padding: 0;
+    background: none;
+}
+
+
+.Img-Display .ImageContainer {
+    display: flex;
+    justify-content:center;
+}
+
+.Img-Display .ImageContainer img {
+    animation-name: floating;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    background-color: #2b5c4c;
+    border-radius: 10px;
+    box-shadow: 3px 3px 20px #2b5c4c;
+}
+
+@keyframes floating {
+    0% { transform: translate(0,  0px); }
+    50%  { transform: translate(0, 10px); }
+    100%   { transform: translate(0, -0px); }   
+}

@@ -10,12 +10,12 @@ function Home() {
 	return (
 		<div className="homeBg">
 			<div className="headerHome">
-				<GenericCard text="Welcome to Diet Optimizer. Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem ipsum Lorem Ipsum" style={{ width: '15em' }} />
+				<GenericCard text="Welcome to Diet Optimizer. Start by finding a restaurant or typing some calories!" style={{ width: '15em' }} />
 				<img src={logo} className="homeBackground" />
 				<div className="SearchBar">
 					<GenericCard
 						text={
-							<SearchBar />
+							<SearchBar placeholder="Type here!" />
 						}
 						style={{ width: '15em' }}
 					/>

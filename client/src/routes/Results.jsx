@@ -15,7 +15,7 @@ function Results(props) {
       <div className="SearchBar">
         <GenericCard
           text={
-            <SearchBar />
+            <SearchBar placeholder={store.query} />
           }
           style={{ width: '16.4em' }}
         />

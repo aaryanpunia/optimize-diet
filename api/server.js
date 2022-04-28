@@ -27,4 +27,4 @@ app.listen(port);
 
 
 //Configure routes
-app.use('/', resto);
+app.use('/restaurant', resto);

@@ -7,7 +7,7 @@ function SearchBar(props) {
   const store = useContext(StoreContext)
 
   return (
-    <input type="text" placeholder="Search for a place to eat!" onChange={e => store.setQuery(e.target.value.toLowerCase())} />
+    <input type="text" placeholder={props.placeholder} onChange={e => store.setQuery(e.target.value.toLowerCase())} />
   );
 }
 

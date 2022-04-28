@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;400&display=swap');
+
+.GenHeader .Img-Display {
+    display: none;
+    position:relative;
+    top: 6em;
+    z-index: 2;
+}
+
+.GenHeader {
+    border: none;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    top: 0;
+    left: 0; 
+    right: 0; 
+    margin-left: auto; 
+    margin-right: auto; 
+    background-color: #3bb78f;
+    background-image: linear-gradient(315deg, #3bb78f 0%, #0bab64 74%);
+    border-radius: 0 0 10px 10px;
+    width: 100%;
+    box-shadow: 0 5px 10px #3bb78f;
+    height: 6em;
+    align-items: center;
+    gap: 6em;
+}
+
+
+div .headButton {
+    width: 100%;
+    border: none;
+    background: none;
+    font-weight: bolder;
+    font-size: 2em;
+    position: absolute;
+    bottom: 0.5em;
+    color: white;
+    text-align: center;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.GenHeader-enter {
+    height: 5em;
+}
+
+.GenHeader-enter .Img-Display{
+    opacity: 0;
+}
+
+
+
+.GenHeader-enter-active {
+    height: 25em;
+    transition: height 1.5s;
+}
+
+.GenHeader-enter-active .Img-Display {
+    display: block;
+}
+
+.GenHeader-enter-done {
+    height: 25em;
+    transition: height 1.5s;
+}
+
+.GenHeader-enter-done .Img-Display {
+    display: block;
+    opacity: 1;
+    transition: opacity 1.5s;
+}
+
+.GenHeader-exit {
+    height: 25em;
+}
+
+.GenHeader-exit .Img-Display {
+    display: block;
+    opacity: 1;
+    transition: opacity 1.5s;
+}
+
+.GenHeader-exit-active {
+    height: 5em;
+    transition: height 1.5s;
+}
+
+.GenHeader-exit-active .Img-Display {
+    opacity: 0;
+    transition: opacity 0.3s;
+}
+
+.GenHeader-exit-done {
+    height: 5em;
+    transition: height 1.5s;
+}
+
+.GenHeader-exit-done .Img-Display {
+    display: none;
+}
+
